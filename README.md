@@ -1,7 +1,7 @@
 # DTK530_I_7_MiniProj_MichaelA_P
 
 ## Project Overview
-This Jupyter Notebook is part of a mini-project for the DTK530_I_7 course. It includes data analysis and visualization tasks, potentially involving machine learning. The project uses a variety of Python libraries for data manipulation, statistical analysis, and plotting.
+This I_7 Jupyter Notebook is part of a mini-project for the DESIGNTK530 course. It includes data analysis and visualization tasks, involving Data Science in general. The project uses a variety of Python libraries for data manipulation, statistical analysis, and plotting.
 
 ## Requirements
 
