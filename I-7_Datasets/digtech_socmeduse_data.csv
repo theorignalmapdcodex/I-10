@@ -1,0 +1,1001 @@
+﻿,User ID,Age (yrs),Gender,Country,Social Media Platform Used,Total Time Spent on the Platform (mins),Number of Logging In Sessions,Video Category,Time Spent On Video (mins),Videos Watched Count,Time of Day Usage Frequency,Impact on Productivity,User's Satisfaction with Platform,Video Motivation,Primary Device of Use,Perceived Self Control Level,Perceived Addiction Level,Concurrent Activity,Internet Connection Type,Age Band (yrs),Economic Group
+0,1,56,Male,Pakistan,Instagram,80,17,Pranks,26,22,Night,3,7,Procrastination,Smartphone,5,5,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+1,2,46,Female,Mexico,Instagram,228,14,Pranks,25,31,Afternoon,5,5,Habit,Computer,7,3,At school,Wi-Fi,45-54 (Older Adults),Developing
+2,3,32,Female,United States,Facebook,30,6,Vlogs,9,7,Evening,6,4,Entertainment,Tablet,8,2,At home,Mobile Data,25-44 (Young Adults),Developed
+3,4,60,Male,Brazil,YouTube,101,19,Vlogs,6,41,Night,3,7,Habit,Smartphone,5,5,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+4,5,25,Male,Pakistan,TikTok,136,6,Gaming,13,21,Morning,8,2,Boredom,Smartphone,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+5,6,38,Male,Vietnam,Instagram,89,18,Jokes/Memes,27,16,Night,3,7,Entertainment,Computer,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+6,7,56,Male,India,TikTok,247,5,Vlogs,22,20,Morning,8,2,Habit,Smartphone,10,0,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+7,8,36,Male,Brazil,Instagram,191,6,Entertainment,28,43,Night,3,7,Entertainment,Tablet,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+8,9,40,Male,United States,Instagram,34,2,Vlogs,20,44,Night,3,7,Entertainment,Computer,5,5,At home,Mobile Data,35-44 (Mid Adults),Developed
+9,10,28,Other,United States,YouTube,165,8,ASMR,4,47,Evening,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developed
+10,11,28,Male,Indonesia,Instagram,14,15,Pranks,2,19,Afternoon,5,5,Boredom,Smartphone,7,3,At home,Mobile Data,25-44 (Young Adults),Developing
+11,12,41,Other,Philippines,TikTok,129,15,Life Hacks,26,48,Evening,6,4,Habit,Tablet,8,2,At home,Wi-Fi,35-44 (Mid Adults),Developing
+12,13,53,Male,Japan,Instagram,286,11,Gaming,4,32,Afternoon,5,5,Habit,Smartphone,7,3,At school,Mobile Data,45-54 (Older Adults),Developed
+13,14,57,Male,Indonesia,Facebook,27,1,Vlogs,8,15,Evening,6,4,Entertainment,Tablet,8,2,Commuting,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+14,15,41,Other,Vietnam,YouTube,207,18,Gaming,13,5,Evening,6,4,Boredom,Tablet,8,2,At school,Wi-Fi,35-44 (Mid Adults),Developing
+15,16,20,Female,Philippines,YouTube,66,12,Entertainment,10,11,Evening,6,4,Entertainment,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developing
+16,17,39,Female,Mexico,Facebook,102,12,ASMR,18,15,Afternoon,5,5,Habit,Smartphone,7,3,At home,Wi-Fi,35-44 (Mid Adults),Developing
+17,18,19,Female,Brazil,Facebook,28,11,ASMR,9,29,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developing
+18,19,41,Other,Japan,Facebook,202,8,Pranks,1,45,Evening,6,4,Entertainment,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developed
+19,20,61,Male,United States,Instagram,246,7,Vlogs,13,4,Morning,8,2,Habit,Smartphone,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+20,21,47,Male,India,YouTube,286,2,Vlogs,18,49,Afternoon,5,5,Habit,Tablet,7,3,Commuting,Mobile Data,45-54 (Older Adults),Developing
+21,22,55,Male,Brazil,Facebook,236,11,Entertainment,15,36,Afternoon,5,5,Boredom,Computer,7,3,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+22,23,19,Female,Indonesia,Instagram,242,10,Entertainment,2,48,Night,3,7,Boredom,Smartphone,5,5,At work,Mobile Data,18-24 (Youth),Developing
+23,24,38,Female,India,Facebook,49,3,Pranks,11,23,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+24,25,50,Male,Germany,TikTok,162,10,Jokes/Memes,29,15,Evening,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+25,26,29,Male,Japan,TikTok,136,18,Jokes/Memes,14,46,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Wi-Fi,25-44 (Young Adults),Developed
+26,27,39,Male,Japan,YouTube,246,14,Gaming,22,44,Evening,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+27,28,61,Other,Vietnam,Instagram,64,18,Life Hacks,15,3,Night,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+28,29,42,Female,India,TikTok,181,8,Entertainment,14,32,Evening,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developing
+29,30,44,Male,India,TikTok,118,10,Pranks,16,10,Evening,6,4,Entertainment,Smartphone,8,2,At home,Wi-Fi,35-44 (Mid Adults),Developing
+30,31,59,Male,United States,Instagram,193,13,Pranks,23,40,Morning,8,2,Habit,Smartphone,10,0,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+31,32,45,Male,United States,Facebook,207,8,Jokes/Memes,29,38,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,45-54 (Older Adults),Developed
+32,33,33,Male,India,Instagram,96,4,Trends,15,22,Night,3,7,Boredom,Tablet,5,5,Commuting,Mobile Data,25-44 (Young Adults),Developing
+33,34,32,Other,Mexico,Facebook,210,4,Trends,19,14,Evening,6,4,Entertainment,Smartphone,8,2,At work,Mobile Data,25-44 (Young Adults),Developing
+34,35,64,Female,Vietnam,TikTok,284,5,Entertainment,27,17,Evening,6,4,Entertainment,Tablet,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+35,36,61,Other,Mexico,TikTok,220,1,Jokes/Memes,9,21,Night,3,7,Procrastination,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+36,37,20,Male,United States,TikTok,127,17,Entertainment,5,48,Night,3,7,Entertainment,Tablet,5,5,At home,Mobile Data,18-24 (Youth),Developed
+37,38,54,Male,Philippines,YouTube,200,2,Jokes/Memes,5,15,Afternoon,5,5,Boredom,Smartphone,7,3,At school,Wi-Fi,45-54 (Older Adults),Developing
+38,39,24,Male,Brazil,YouTube,51,8,Jokes/Memes,11,15,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,18-24 (Youth),Developing
+39,40,38,Male,Germany,YouTube,51,7,ASMR,28,1,Afternoon,5,5,Boredom,Tablet,7,3,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+40,41,26,Male,Pakistan,Instagram,285,15,Comedy,20,24,Evening,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,25-44 (Young Adults),Developing
+41,42,56,Male,India,TikTok,26,5,ASMR,25,12,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+42,43,35,Other,Indonesia,TikTok,292,2,Life Hacks,24,10,Morning,8,2,Entertainment,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+43,44,21,Female,Pakistan,Instagram,267,7,Gaming,28,46,Night,3,7,Entertainment,Tablet,5,5,At school,Mobile Data,18-24 (Youth),Developing
+44,45,42,Other,Philippines,YouTube,72,8,Gaming,4,42,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+45,46,31,Female,Pakistan,Instagram,71,7,Comedy,20,42,Evening,6,4,Procrastination,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+46,47,26,Male,Vietnam,YouTube,109,7,Trends,18,31,Afternoon,5,5,Procrastination,Smartphone,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+47,48,43,Male,Japan,TikTok,28,14,Pranks,25,11,Night,3,7,Entertainment,Tablet,5,5,At work,Mobile Data,35-44 (Mid Adults),Developed
+48,49,19,Female,India,Facebook,26,18,Trends,3,16,Evening,6,4,Boredom,Tablet,8,2,At school,Wi-Fi,18-24 (Youth),Developing
+49,50,37,Male,United States,YouTube,255,6,Life Hacks,4,9,Afternoon,5,5,Procrastination,Smartphone,7,3,At home,Mobile Data,35-44 (Mid Adults),Developed
+50,51,45,Female,United States,TikTok,260,4,Entertainment,14,47,Afternoon,5,5,Entertainment,Tablet,7,3,At home,Wi-Fi,45-54 (Older Adults),Developed
+51,52,64,Other,Mexico,TikTok,90,10,Entertainment,7,14,Evening,6,4,Entertainment,Tablet,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+52,53,24,Male,Germany,Facebook,48,18,Pranks,26,19,Evening,6,4,Boredom,Tablet,8,2,Commuting,Mobile Data,18-24 (Youth),Developed
+53,54,61,Male,Vietnam,TikTok,45,12,Trends,8,31,Afternoon,5,5,Procrastination,Computer,7,3,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+54,55,25,Other,India,TikTok,206,16,Life Hacks,24,9,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+55,56,64,Male,Japan,YouTube,167,7,Life Hacks,16,36,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+56,57,52,Male,Indonesia,YouTube,213,6,Jokes/Memes,20,39,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,45-54 (Older Adults),Developing
+57,58,31,Male,United States,Facebook,205,5,Entertainment,15,26,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,25-44 (Young Adults),Developed
+58,59,34,Male,Vietnam,Facebook,225,3,Vlogs,7,8,Night,3,7,Entertainment,Tablet,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+59,60,53,Male,Japan,TikTok,294,12,Life Hacks,26,24,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developed
+60,61,57,Female,Germany,YouTube,205,15,Entertainment,17,8,Afternoon,5,5,Entertainment,Smartphone,7,3,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+61,62,21,Other,United States,Facebook,161,10,Jokes/Memes,22,19,Afternoon,5,5,Procrastination,Smartphone,7,3,Commuting,Wi-Fi,18-24 (Youth),Developed
+62,63,19,Male,United States,Facebook,23,19,Entertainment,22,47,Evening,6,4,Habit,Computer,8,2,At school,Mobile Data,18-24 (Youth),Developed
+63,64,23,Male,Vietnam,Instagram,155,16,ASMR,22,48,Evening,6,4,Boredom,Computer,8,2,Commuting,Wi-Fi,18-24 (Youth),Developing
+64,65,59,Male,United States,Facebook,66,11,Life Hacks,12,30,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+65,66,21,Other,India,TikTok,220,8,Life Hacks,18,22,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developing
+66,67,46,Other,India,YouTube,277,3,Gaming,24,9,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developing
+67,68,35,Male,Mexico,Facebook,219,7,Trends,14,44,Evening,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+68,69,43,Male,Vietnam,Instagram,26,7,Life Hacks,15,48,Night,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+69,70,61,Female,Mexico,YouTube,295,14,Gaming,15,4,Evening,6,4,Habit,Computer,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+70,71,51,Female,Vietnam,Facebook,212,2,Pranks,5,37,Afternoon,5,5,Entertainment,Tablet,7,3,At school,Mobile Data,45-54 (Older Adults),Developing
+71,72,27,Male,Indonesia,Instagram,108,10,Life Hacks,16,8,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,25-44 (Young Adults),Developing
+72,73,53,Male,Vietnam,Facebook,288,19,Comedy,5,1,Evening,6,4,Entertainment,Computer,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+73,74,31,Female,Germany,YouTube,218,9,Jokes/Memes,2,28,Night,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,25-44 (Young Adults),Developed
+74,75,48,Other,Philippines,YouTube,138,16,Jokes/Memes,20,6,Night,3,7,Procrastination,Computer,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+75,76,32,Male,United States,YouTube,297,19,Jokes/Memes,28,47,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,25-44 (Young Adults),Developed
+76,77,25,Female,India,TikTok,261,18,Pranks,25,36,Night,3,7,Procrastination,Smartphone,5,5,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+77,78,31,Male,India,Facebook,274,9,Life Hacks,9,11,Afternoon,5,5,Procrastination,Tablet,7,3,Commuting,Mobile Data,25-44 (Young Adults),Developing
+78,79,40,Other,Japan,TikTok,280,16,Vlogs,22,5,Evening,6,4,Boredom,Smartphone,8,2,At school,Wi-Fi,35-44 (Mid Adults),Developed
+79,80,57,Male,United States,YouTube,197,13,Jokes/Memes,27,24,Night,3,7,Habit,Tablet,5,5,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+80,81,38,Male,United States,Instagram,223,10,Gaming,9,47,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developed
+81,82,33,Male,Pakistan,Facebook,292,14,Jokes/Memes,4,18,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+82,83,62,Male,Philippines,TikTok,220,12,Pranks,15,20,Evening,6,4,Entertainment,Smartphone,8,2,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+83,84,35,Male,India,Facebook,85,19,Entertainment,11,28,Afternoon,5,5,Boredom,Smartphone,7,3,At work,Mobile Data,35-44 (Mid Adults),Developing
+84,85,64,Male,Brazil,Instagram,157,7,Jokes/Memes,1,13,Night,3,7,Boredom,Tablet,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+85,86,41,Other,India,TikTok,222,15,Life Hacks,18,5,Night,3,7,Entertainment,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+86,87,43,Female,Indonesia,YouTube,118,16,Trends,29,30,Night,3,7,Habit,Computer,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+87,88,42,Other,United States,TikTok,138,8,Life Hacks,1,1,Night,3,7,Entertainment,Computer,5,5,At home,Mobile Data,35-44 (Mid Adults),Developed
+88,89,62,Female,United States,Facebook,19,10,Jokes/Memes,8,22,Night,3,7,Boredom,Smartphone,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+89,90,58,Female,Germany,Facebook,56,4,Jokes/Memes,25,18,Night,3,7,Entertainment,Smartphone,5,5,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+90,91,46,Male,United States,Facebook,105,19,Jokes/Memes,16,46,Afternoon,5,5,Boredom,Tablet,7,3,At school,Mobile Data,45-54 (Older Adults),Developed
+91,92,32,Male,India,Facebook,112,19,Jokes/Memes,26,5,Night,3,7,Boredom,Smartphone,5,5,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+92,93,62,Female,India,YouTube,155,15,Trends,28,31,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+93,94,18,Male,India,TikTok,36,14,Vlogs,22,6,Night,3,7,Boredom,Tablet,5,5,At work,Wi-Fi,18-24 (Youth),Developing
+94,95,42,Other,Vietnam,YouTube,229,1,Life Hacks,18,27,Evening,6,4,Habit,Computer,8,2,At work,Wi-Fi,35-44 (Mid Adults),Developing
+95,96,24,Other,Pakistan,YouTube,27,16,Jokes/Memes,22,25,Morning,8,2,Habit,Smartphone,10,0,At home,Wi-Fi,18-24 (Youth),Developing
+96,97,26,Male,United States,YouTube,176,10,ASMR,9,29,Evening,6,4,Boredom,Smartphone,8,2,At home,Wi-Fi,25-44 (Young Adults),Developed
+97,98,41,Female,United States,Facebook,91,19,Jokes/Memes,12,28,Afternoon,5,5,Entertainment,Tablet,7,3,At work,Mobile Data,35-44 (Mid Adults),Developed
+98,99,18,Male,India,Facebook,81,3,ASMR,19,16,Night,3,7,Entertainment,Smartphone,5,5,At work,Wi-Fi,18-24 (Youth),Developing
+99,100,61,Female,Mexico,Facebook,263,5,Pranks,25,12,Evening,6,4,Boredom,Tablet,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+100,101,25,Male,Germany,TikTok,171,9,Vlogs,18,20,Afternoon,5,5,Boredom,Tablet,7,3,At work,Wi-Fi,25-44 (Young Adults),Developed
+101,102,41,Male,Germany,Instagram,47,18,Jokes/Memes,27,18,Night,3,7,Boredom,Smartphone,5,5,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+102,103,28,Male,India,Facebook,210,11,Jokes/Memes,5,34,Night,3,7,Entertainment,Smartphone,5,5,At school,Wi-Fi,25-44 (Young Adults),Developing
+103,104,34,Female,Japan,TikTok,209,16,Gaming,27,23,Night,3,7,Habit,Tablet,5,5,At work,Mobile Data,25-44 (Young Adults),Developed
+104,105,25,Female,India,Facebook,264,2,Gaming,2,45,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+105,106,52,Male,Philippines,Facebook,188,12,Comedy,7,27,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+106,107,52,Female,Japan,YouTube,44,6,Jokes/Memes,27,49,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developed
+107,108,50,Male,Brazil,YouTube,91,11,Pranks,10,17,Night,3,7,Entertainment,Smartphone,5,5,At work,Wi-Fi,45-54 (Older Adults),Developing
+108,109,22,Male,Mexico,YouTube,229,8,Gaming,15,48,Evening,6,4,Entertainment,Computer,8,2,At home,Wi-Fi,18-24 (Youth),Developing
+109,110,59,Male,Germany,TikTok,167,12,Jokes/Memes,25,21,Night,3,7,Procrastination,Tablet,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+110,111,56,Female,India,Instagram,13,2,Jokes/Memes,7,40,Night,3,7,Entertainment,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+111,112,58,Female,Brazil,Instagram,176,9,Pranks,28,31,Evening,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+112,113,45,Female,Vietnam,TikTok,213,15,Jokes/Memes,5,3,Evening,6,4,Procrastination,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developing
+113,114,24,Male,Indonesia,Facebook,203,2,Jokes/Memes,15,17,Evening,6,4,Boredom,Computer,8,2,At home,Wi-Fi,18-24 (Youth),Developing
+114,115,26,Male,United States,TikTok,244,1,Entertainment,20,26,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developed
+115,116,25,Male,Brazil,Facebook,215,10,Life Hacks,28,23,Night,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+116,117,29,Female,Philippines,TikTok,159,2,Entertainment,20,6,Evening,6,4,Habit,Smartphone,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+117,118,51,Male,United States,TikTok,168,12,Life Hacks,15,28,Evening,6,4,Habit,Smartphone,8,2,At work,Wi-Fi,45-54 (Older Adults),Developed
+118,119,50,Other,India,TikTok,288,8,Life Hacks,10,8,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developing
+119,120,40,Female,Pakistan,Instagram,175,5,Gaming,24,45,Night,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+120,121,41,Other,Vietnam,YouTube,77,1,Life Hacks,26,8,Night,3,7,Habit,Tablet,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+121,122,54,Other,Brazil,TikTok,97,15,Gaming,29,19,Night,3,7,Habit,Tablet,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+122,123,52,Female,Mexico,Instagram,226,6,Trends,26,38,Evening,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developing
+123,124,61,Other,India,YouTube,10,12,Comedy,14,29,Evening,6,4,Boredom,Smartphone,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+124,125,57,Male,United States,YouTube,144,8,ASMR,26,23,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+125,126,39,Female,India,TikTok,194,13,Gaming,26,47,Evening,6,4,Entertainment,Tablet,8,2,At school,Mobile Data,35-44 (Mid Adults),Developing
+126,127,44,Female,Brazil,Facebook,149,19,Pranks,10,32,Night,3,7,Habit,Computer,5,5,At school,Mobile Data,35-44 (Mid Adults),Developing
+127,128,52,Male,Mexico,Facebook,115,1,Pranks,17,10,Night,3,7,Boredom,Smartphone,5,5,At school,Wi-Fi,45-54 (Older Adults),Developing
+128,129,18,Other,Philippines,Facebook,142,11,Vlogs,21,27,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Wi-Fi,18-24 (Youth),Developing
+129,130,52,Female,Indonesia,TikTok,117,1,Jokes/Memes,14,49,Evening,6,4,Habit,Tablet,8,2,At home,Wi-Fi,45-54 (Older Adults),Developing
+130,131,54,Male,United States,Facebook,187,8,Vlogs,2,1,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+131,132,64,Male,Indonesia,Instagram,155,5,Life Hacks,16,39,Night,3,7,Procrastination,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+132,133,31,Female,India,Instagram,83,17,ASMR,13,29,Night,3,7,Entertainment,Tablet,5,5,Commuting,Mobile Data,25-44 (Young Adults),Developing
+133,134,20,Male,India,Instagram,117,8,Vlogs,27,45,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,18-24 (Youth),Developing
+134,135,18,Female,Brazil,Instagram,131,10,Entertainment,9,3,Afternoon,5,5,Procrastination,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developing
+135,136,22,Female,Brazil,YouTube,26,2,Life Hacks,7,47,Evening,6,4,Entertainment,Computer,8,2,At home,Mobile Data,18-24 (Youth),Developing
+136,137,43,Female,Pakistan,Instagram,205,9,Trends,16,37,Night,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+137,138,31,Female,Germany,Facebook,261,3,Entertainment,10,31,Night,3,7,Entertainment,Tablet,5,5,At work,Mobile Data,25-44 (Young Adults),Developed
+138,139,56,Male,Pakistan,TikTok,128,18,Life Hacks,24,11,Morning,8,2,Boredom,Tablet,10,0,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+139,140,44,Male,India,Facebook,171,7,Life Hacks,22,22,Afternoon,5,5,Procrastination,Computer,7,3,At school,Wi-Fi,35-44 (Mid Adults),Developing
+140,141,26,Female,India,Instagram,207,15,Jokes/Memes,9,18,Afternoon,5,5,Habit,Tablet,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+141,142,32,Male,India,YouTube,54,18,Gaming,22,35,Evening,6,4,Procrastination,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+142,143,32,Female,Pakistan,Instagram,188,3,Life Hacks,23,6,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,25-44 (Young Adults),Developing
+143,144,43,Female,Mexico,TikTok,53,14,Pranks,7,3,Night,3,7,Entertainment,Smartphone,5,5,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+144,145,59,Male,Mexico,Facebook,280,2,Life Hacks,16,5,Morning,8,2,Entertainment,Smartphone,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+145,146,30,Other,India,TikTok,87,14,Life Hacks,9,9,Evening,6,4,Habit,Tablet,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developing
+146,147,49,Male,Vietnam,TikTok,187,11,Life Hacks,27,28,Night,3,7,Procrastination,Smartphone,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+147,148,56,Male,Germany,TikTok,12,16,Jokes/Memes,24,19,Morning,8,2,Procrastination,Smartphone,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+148,149,49,Other,Mexico,Facebook,223,8,Vlogs,29,28,Evening,6,4,Boredom,Smartphone,8,2,At home,Wi-Fi,45-54 (Older Adults),Developing
+149,150,21,Male,Japan,Instagram,83,7,Trends,17,27,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developed
+150,151,47,Other,United States,TikTok,60,11,Entertainment,20,13,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,45-54 (Older Adults),Developed
+151,152,54,Male,India,Facebook,76,3,Gaming,7,38,Night,3,7,Habit,Tablet,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+152,153,40,Male,India,YouTube,102,17,Life Hacks,11,43,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+153,154,56,Other,India,Facebook,185,14,Trends,8,21,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+154,155,62,Male,United States,YouTube,154,6,Entertainment,7,27,Night,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+155,156,32,Male,United States,Facebook,16,8,Vlogs,28,46,Afternoon,5,5,Boredom,Smartphone,7,3,At home,Mobile Data,25-44 (Young Adults),Developed
+156,157,60,Female,Japan,Instagram,278,5,Pranks,19,6,Night,3,7,Boredom,Smartphone,5,5,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+157,158,46,Other,Pakistan,TikTok,13,8,Pranks,20,38,Night,3,7,Boredom,Tablet,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+158,159,53,Female,Vietnam,Instagram,147,2,Jokes/Memes,12,49,Evening,6,4,Procrastination,Computer,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+159,160,30,Other,India,Facebook,240,15,Jokes/Memes,7,11,Evening,6,4,Entertainment,Smartphone,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developing
+160,161,49,Male,India,TikTok,97,12,Life Hacks,8,47,Afternoon,5,5,Entertainment,Tablet,7,3,At work,Wi-Fi,45-54 (Older Adults),Developing
+161,162,24,Male,Indonesia,YouTube,26,17,Trends,7,41,Afternoon,5,5,Habit,Smartphone,7,3,At home,Wi-Fi,18-24 (Youth),Developing
+162,163,39,Other,Japan,Facebook,61,1,Gaming,6,17,Night,3,7,Boredom,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developed
+163,164,45,Male,India,TikTok,143,15,Entertainment,25,39,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+164,165,19,Male,Japan,YouTube,220,14,Jokes/Memes,9,7,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Mobile Data,18-24 (Youth),Developed
+165,166,59,Male,Japan,YouTube,228,16,Entertainment,27,30,Afternoon,5,5,Entertainment,Smartphone,7,3,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+166,167,62,Male,Philippines,Instagram,214,9,Gaming,13,21,Evening,6,4,Habit,Computer,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+167,168,23,Male,Japan,Facebook,220,1,Gaming,7,1,Evening,6,4,Entertainment,Tablet,8,2,At school,Wi-Fi,18-24 (Youth),Developed
+168,169,45,Female,United States,YouTube,286,17,Trends,8,25,Afternoon,5,5,Habit,Smartphone,7,3,At work,Mobile Data,45-54 (Older Adults),Developed
+169,170,45,Female,Philippines,TikTok,33,13,Trends,22,32,Afternoon,5,5,Entertainment,Smartphone,7,3,At home,Mobile Data,45-54 (Older Adults),Developing
+170,171,61,Male,Japan,YouTube,13,5,Life Hacks,17,8,Afternoon,5,5,Habit,Smartphone,7,3,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+171,172,61,Male,Germany,YouTube,161,10,Jokes/Memes,17,5,Night,3,7,Entertainment,Tablet,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+172,173,37,Female,United States,Instagram,268,6,Entertainment,16,30,Night,3,7,Habit,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developed
+173,174,47,Male,India,Instagram,177,19,Gaming,22,8,Evening,6,4,Entertainment,Tablet,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+174,175,28,Male,Philippines,TikTok,185,13,ASMR,2,49,Night,3,7,Entertainment,Smartphone,5,5,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+175,176,45,Female,Indonesia,Instagram,65,1,Life Hacks,8,19,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developing
+176,177,42,Male,United States,YouTube,117,15,ASMR,17,44,Morning,8,2,Boredom,Smartphone,10,0,At home,Wi-Fi,35-44 (Mid Adults),Developed
+177,178,56,Female,Indonesia,YouTube,150,14,Trends,13,30,Evening,6,4,Boredom,Tablet,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+178,179,50,Male,India,Instagram,164,8,Trends,18,15,Afternoon,5,5,Habit,Smartphone,7,3,At work,Mobile Data,45-54 (Older Adults),Developing
+179,180,18,Other,Indonesia,YouTube,271,10,Vlogs,24,36,Afternoon,5,5,Entertainment,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developing
+180,181,44,Female,India,YouTube,282,9,Life Hacks,28,44,Evening,6,4,Procrastination,Computer,8,2,At school,Mobile Data,35-44 (Mid Adults),Developing
+181,182,30,Female,India,TikTok,241,17,Life Hacks,22,27,Evening,6,4,Procrastination,Tablet,8,2,At school,Mobile Data,25-44 (Young Adults),Developing
+182,183,58,Male,Philippines,Instagram,250,9,Jokes/Memes,28,13,Evening,6,4,Habit,Smartphone,8,2,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+183,184,20,Female,Japan,YouTube,267,3,ASMR,10,14,Evening,6,4,Habit,Tablet,8,2,At school,Mobile Data,18-24 (Youth),Developed
+184,185,56,Male,Brazil,Instagram,258,11,Pranks,2,37,Night,3,7,Entertainment,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+185,186,23,Male,India,TikTok,86,12,Jokes/Memes,2,48,Evening,6,4,Entertainment,Smartphone,8,2,At work,Mobile Data,18-24 (Youth),Developing
+186,187,25,Male,Philippines,Instagram,189,10,Entertainment,27,30,Afternoon,5,5,Procrastination,Tablet,7,3,At home,Mobile Data,25-44 (Young Adults),Developing
+187,188,44,Male,Germany,YouTube,75,17,Life Hacks,14,39,Morning,8,2,Procrastination,Smartphone,10,0,At work,Mobile Data,35-44 (Mid Adults),Developed
+188,189,26,Female,India,Instagram,180,17,Entertainment,16,47,Morning,8,2,Entertainment,Smartphone,10,0,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+189,190,54,Male,Mexico,YouTube,31,11,Pranks,7,13,Morning,8,2,Habit,Smartphone,10,0,At home,Mobile Data,45-54 (Older Adults),Developing
+190,191,50,Male,Indonesia,YouTube,116,4,Entertainment,21,16,Evening,6,4,Boredom,Smartphone,8,2,At work,Wi-Fi,45-54 (Older Adults),Developing
+191,192,59,Other,Brazil,YouTube,236,7,Life Hacks,21,44,Evening,6,4,Entertainment,Smartphone,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+192,193,61,Male,Japan,TikTok,225,14,Jokes/Memes,24,7,Evening,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+193,194,41,Female,United States,Instagram,78,7,Vlogs,12,48,Afternoon,5,5,Entertainment,Smartphone,7,3,At home,Mobile Data,35-44 (Mid Adults),Developed
+194,195,32,Other,India,TikTok,93,8,Trends,28,27,Evening,6,4,Habit,Tablet,8,2,At school,Wi-Fi,25-44 (Young Adults),Developing
+195,196,49,Male,Vietnam,Instagram,112,1,Life Hacks,23,45,Evening,6,4,Habit,Tablet,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+196,197,49,Male,Pakistan,TikTok,48,4,Jokes/Memes,28,35,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+197,198,41,Male,Brazil,Facebook,22,12,Gaming,14,15,Night,3,7,Habit,Smartphone,5,5,At work,Wi-Fi,35-44 (Mid Adults),Developing
+198,199,58,Male,United States,YouTube,190,3,Pranks,25,28,Morning,8,2,Boredom,Computer,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+199,200,29,Male,India,YouTube,277,13,Entertainment,4,35,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developing
+200,201,56,Other,Vietnam,TikTok,22,6,Pranks,26,7,Evening,6,4,Entertainment,Tablet,8,2,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+201,202,19,Female,Philippines,Facebook,129,11,Jokes/Memes,4,46,Morning,8,2,Habit,Computer,10,0,At home,Mobile Data,18-24 (Youth),Developing
+202,203,20,Female,Japan,YouTube,66,4,Trends,18,46,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developed
+203,204,54,Female,India,Instagram,49,16,Gaming,3,20,Night,3,7,Habit,Smartphone,5,5,At school,Wi-Fi,45-54 (Older Adults),Developing
+204,205,34,Male,India,TikTok,137,7,Trends,1,32,Night,3,7,Boredom,Computer,5,5,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+205,206,19,Male,India,YouTube,182,11,Gaming,17,38,Evening,6,4,Boredom,Computer,8,2,At school,Mobile Data,18-24 (Youth),Developing
+206,207,19,Male,India,YouTube,44,1,Life Hacks,7,40,Night,3,7,Habit,Smartphone,5,5,At school,Wi-Fi,18-24 (Youth),Developing
+207,208,45,Female,Vietnam,TikTok,268,7,Comedy,16,32,Evening,6,4,Habit,Smartphone,8,2,Commuting,Wi-Fi,45-54 (Older Adults),Developing
+208,209,40,Male,Indonesia,TikTok,14,12,Entertainment,5,26,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+209,210,54,Male,Pakistan,Instagram,227,7,Entertainment,19,39,Evening,6,4,Procrastination,Computer,8,2,At school,Wi-Fi,45-54 (Older Adults),Developing
+210,211,49,Female,Germany,Instagram,20,7,Gaming,7,20,Evening,6,4,Habit,Tablet,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+211,212,50,Other,India,YouTube,126,10,Vlogs,14,18,Afternoon,5,5,Habit,Smartphone,7,3,At work,Wi-Fi,45-54 (Older Adults),Developing
+212,213,18,Other,Mexico,YouTube,193,16,Trends,2,15,Evening,6,4,Boredom,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developing
+213,214,36,Female,Pakistan,TikTok,125,8,Life Hacks,3,22,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developing
+214,215,19,Male,India,YouTube,171,9,Jokes/Memes,17,22,Evening,6,4,Boredom,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developing
+215,216,61,Male,Japan,YouTube,76,9,Entertainment,16,21,Night,3,7,Habit,Tablet,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+216,217,43,Male,India,TikTok,209,2,Gaming,8,2,Evening,6,4,Entertainment,Computer,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+217,218,49,Male,United States,YouTube,40,13,Life Hacks,18,40,Morning,8,2,Procrastination,Smartphone,10,0,At home,Mobile Data,45-54 (Older Adults),Developed
+218,219,23,Other,Pakistan,YouTube,84,13,Comedy,15,43,Night,3,7,Procrastination,Smartphone,5,5,Commuting,Mobile Data,18-24 (Youth),Developing
+219,220,49,Male,Mexico,Facebook,246,4,Pranks,7,18,Night,3,7,Procrastination,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+220,221,21,Male,India,Instagram,75,12,Trends,27,23,Night,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,18-24 (Youth),Developing
+221,222,28,Male,Indonesia,TikTok,79,17,Life Hacks,9,13,Evening,6,4,Entertainment,Computer,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+222,223,34,Other,Vietnam,Facebook,29,2,Vlogs,6,41,Afternoon,5,5,Entertainment,Tablet,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+223,224,55,Other,United States,Instagram,235,13,ASMR,18,9,Evening,6,4,Habit,Tablet,8,2,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+224,225,41,Male,Philippines,Instagram,208,18,Life Hacks,18,49,Evening,6,4,Boredom,Tablet,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+225,226,22,Male,Pakistan,Instagram,48,15,Pranks,25,7,Evening,6,4,Boredom,Smartphone,8,2,At work,Wi-Fi,18-24 (Youth),Developing
+226,227,51,Male,Japan,Facebook,154,8,Entertainment,26,41,Night,3,7,Habit,Computer,5,5,At work,Wi-Fi,45-54 (Older Adults),Developed
+227,228,23,Male,Vietnam,Facebook,54,15,Trends,24,1,Night,3,7,Habit,Smartphone,5,5,At school,Wi-Fi,18-24 (Youth),Developing
+228,229,39,Other,United States,Instagram,100,1,Gaming,14,2,Evening,6,4,Habit,Tablet,8,2,At home,Mobile Data,35-44 (Mid Adults),Developed
+229,230,28,Male,India,YouTube,247,10,Life Hacks,14,4,Night,3,7,Entertainment,Computer,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+230,231,33,Female,United States,YouTube,79,12,Pranks,14,14,Night,3,7,Boredom,Tablet,5,5,At school,Mobile Data,25-44 (Young Adults),Developed
+231,232,50,Male,Vietnam,Facebook,175,5,Life Hacks,25,32,Night,3,7,Entertainment,Tablet,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+232,233,26,Other,United States,Facebook,139,9,Life Hacks,4,36,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,25-44 (Young Adults),Developed
+233,234,23,Male,Germany,Facebook,223,8,ASMR,4,2,Afternoon,5,5,Entertainment,Tablet,7,3,Commuting,Mobile Data,18-24 (Youth),Developed
+234,235,33,Female,Brazil,Instagram,98,16,Trends,15,40,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developing
+235,236,46,Female,Indonesia,YouTube,261,14,Life Hacks,15,14,Evening,6,4,Procrastination,Computer,8,2,At school,Wi-Fi,45-54 (Older Adults),Developing
+236,237,20,Other,India,Facebook,81,13,Jokes/Memes,18,20,Morning,8,2,Habit,Computer,10,0,At home,Mobile Data,18-24 (Youth),Developing
+237,238,37,Female,Vietnam,Facebook,174,13,Trends,14,25,Night,3,7,Habit,Tablet,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+238,239,53,Male,Germany,TikTok,58,5,Jokes/Memes,26,42,Evening,6,4,Habit,Computer,8,2,At school,Mobile Data,45-54 (Older Adults),Developed
+239,240,36,Female,Germany,Instagram,61,16,Jokes/Memes,1,49,Afternoon,5,5,Procrastination,Tablet,7,3,Commuting,Wi-Fi,35-44 (Mid Adults),Developed
+240,241,43,Other,Philippines,TikTok,298,11,Life Hacks,10,8,Afternoon,5,5,Entertainment,Smartphone,7,3,At work,Mobile Data,35-44 (Mid Adults),Developing
+241,242,20,Other,United States,YouTube,287,5,Life Hacks,29,28,Evening,6,4,Entertainment,Tablet,8,2,At school,Mobile Data,18-24 (Youth),Developed
+242,243,36,Male,Brazil,TikTok,123,13,Life Hacks,20,46,Night,3,7,Procrastination,Smartphone,5,5,At school,Mobile Data,35-44 (Mid Adults),Developing
+243,244,37,Female,Germany,TikTok,248,11,ASMR,10,21,Night,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developed
+244,245,49,Male,Brazil,TikTok,142,19,Jokes/Memes,10,23,Evening,6,4,Procrastination,Smartphone,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+245,246,24,Male,United States,Instagram,283,3,Life Hacks,27,32,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,18-24 (Youth),Developed
+246,247,58,Male,Vietnam,YouTube,175,15,Jokes/Memes,24,8,Morning,8,2,Entertainment,Computer,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+247,248,50,Female,Japan,TikTok,252,7,Life Hacks,2,31,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+248,249,57,Female,United States,Instagram,147,7,Jokes/Memes,29,37,Afternoon,5,5,Habit,Smartphone,7,3,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+249,250,56,Male,Germany,YouTube,88,6,Trends,28,16,Afternoon,5,5,Procrastination,Smartphone,7,3,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+250,251,35,Other,India,Facebook,179,3,Gaming,27,40,Afternoon,5,5,Entertainment,Smartphone,7,3,At home,Mobile Data,35-44 (Mid Adults),Developing
+251,252,57,Female,United States,TikTok,132,13,Entertainment,8,42,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+252,253,18,Female,United States,YouTube,185,7,Comedy,1,27,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,18-24 (Youth),Developed
+253,254,28,Male,Philippines,TikTok,91,5,Gaming,1,40,Afternoon,5,5,Habit,Smartphone,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+254,255,45,Female,Indonesia,Facebook,96,18,Pranks,4,41,Afternoon,5,5,Procrastination,Tablet,7,3,At work,Mobile Data,45-54 (Older Adults),Developing
+255,256,42,Female,India,YouTube,234,8,Vlogs,7,18,Afternoon,5,5,Habit,Smartphone,7,3,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+256,257,40,Male,India,Instagram,25,17,Life Hacks,9,35,Night,3,7,Procrastination,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+257,258,48,Male,Philippines,YouTube,172,1,Life Hacks,16,49,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Wi-Fi,45-54 (Older Adults),Developing
+258,259,47,Male,United States,Instagram,107,14,ASMR,5,15,Evening,6,4,Habit,Smartphone,8,2,At school,Wi-Fi,45-54 (Older Adults),Developed
+259,260,59,Male,United States,YouTube,165,17,Pranks,2,27,Evening,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+260,261,52,Male,United States,Instagram,11,10,Entertainment,28,17,Evening,6,4,Habit,Smartphone,8,2,At school,Wi-Fi,45-54 (Older Adults),Developed
+261,262,24,Male,Germany,Facebook,178,12,Pranks,23,40,Morning,8,2,Boredom,Smartphone,10,0,At work,Mobile Data,18-24 (Youth),Developed
+262,263,33,Other,Philippines,Facebook,101,16,Life Hacks,11,2,Evening,6,4,Entertainment,Smartphone,8,2,At school,Mobile Data,25-44 (Young Adults),Developing
+263,264,43,Male,Vietnam,Facebook,190,14,Entertainment,18,49,Morning,8,2,Entertainment,Tablet,10,0,At school,Wi-Fi,35-44 (Mid Adults),Developing
+264,265,19,Male,India,YouTube,240,16,Vlogs,25,31,Night,3,7,Procrastination,Computer,5,5,At work,Mobile Data,18-24 (Youth),Developing
+265,266,18,Male,Mexico,Facebook,157,8,Pranks,25,37,Afternoon,5,5,Habit,Tablet,7,3,Commuting,Mobile Data,18-24 (Youth),Developing
+266,267,29,Male,Pakistan,TikTok,289,10,Jokes/Memes,19,41,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+267,268,22,Male,United States,Facebook,198,17,Vlogs,13,41,Night,3,7,Habit,Tablet,5,5,At school,Wi-Fi,18-24 (Youth),Developed
+268,269,54,Female,India,Instagram,137,18,Pranks,24,34,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+269,270,49,Female,India,Instagram,16,16,Comedy,11,34,Evening,6,4,Boredom,Smartphone,8,2,At home,Wi-Fi,45-54 (Older Adults),Developing
+270,271,26,Male,India,Instagram,56,17,ASMR,20,3,Afternoon,5,5,Entertainment,Smartphone,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+271,272,58,Other,Philippines,YouTube,62,16,Gaming,19,17,Afternoon,5,5,Habit,Tablet,7,3,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+272,273,52,Other,United States,TikTok,196,19,Pranks,17,14,Evening,6,4,Boredom,Tablet,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+273,274,36,Male,Pakistan,Facebook,47,8,Comedy,5,14,Evening,6,4,Entertainment,Computer,8,2,At work,Wi-Fi,35-44 (Mid Adults),Developing
+274,275,33,Female,Japan,TikTok,235,6,Jokes/Memes,13,46,Evening,6,4,Entertainment,Tablet,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developed
+275,276,20,Female,Germany,TikTok,62,6,Pranks,27,38,Night,3,7,Entertainment,Smartphone,5,5,At school,Mobile Data,18-24 (Youth),Developed
+276,277,37,Male,Brazil,Instagram,233,9,Trends,20,35,Night,3,7,Entertainment,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+277,278,41,Other,Vietnam,Instagram,163,4,Vlogs,1,1,Afternoon,5,5,Entertainment,Tablet,7,3,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+278,279,50,Male,Pakistan,Instagram,57,12,Gaming,10,48,Night,3,7,Habit,Tablet,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+279,280,41,Other,Brazil,YouTube,156,12,Vlogs,8,29,Evening,6,4,Habit,Tablet,8,2,At work,Mobile Data,35-44 (Mid Adults),Developing
+280,281,28,Female,Philippines,TikTok,73,17,Pranks,24,4,Morning,8,2,Boredom,Smartphone,10,0,At home,Wi-Fi,25-44 (Young Adults),Developing
+281,282,25,Female,Brazil,TikTok,191,15,Vlogs,29,33,Evening,6,4,Boredom,Tablet,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+282,283,53,Male,Mexico,YouTube,134,9,Gaming,8,17,Evening,6,4,Procrastination,Computer,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+283,284,55,Male,India,YouTube,188,7,Trends,19,28,Evening,6,4,Boredom,Smartphone,8,2,Commuting,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+284,285,57,Male,Pakistan,YouTube,48,10,Entertainment,6,26,Afternoon,5,5,Habit,Computer,7,3,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+285,286,37,Male,Philippines,TikTok,269,16,Vlogs,12,8,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+286,287,52,Male,Pakistan,TikTok,12,12,Vlogs,28,34,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+287,288,42,Female,Mexico,Instagram,73,7,Jokes/Memes,7,18,Night,3,7,Procrastination,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+288,289,52,Male,United States,Instagram,38,18,Pranks,16,31,Night,3,7,Habit,Computer,5,5,At work,Mobile Data,45-54 (Older Adults),Developed
+289,290,42,Female,United States,TikTok,20,15,Life Hacks,9,27,Afternoon,5,5,Entertainment,Tablet,7,3,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+290,291,46,Female,United States,Instagram,106,6,ASMR,21,16,Evening,6,4,Habit,Computer,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+291,292,35,Female,Indonesia,YouTube,212,12,Jokes/Memes,25,10,Night,3,7,Entertainment,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+292,293,63,Male,Brazil,Facebook,30,11,Trends,22,40,Evening,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+293,294,35,Male,Indonesia,Instagram,48,3,Jokes/Memes,10,12,Evening,6,4,Boredom,Smartphone,8,2,At school,Wi-Fi,35-44 (Mid Adults),Developing
+294,295,19,Female,India,TikTok,232,2,Jokes/Memes,10,22,Afternoon,5,5,Habit,Smartphone,7,3,At work,Wi-Fi,18-24 (Youth),Developing
+295,296,52,Male,Vietnam,Instagram,111,6,Life Hacks,10,16,Afternoon,5,5,Habit,Computer,7,3,At school,Mobile Data,45-54 (Older Adults),Developing
+296,297,33,Female,Mexico,Instagram,55,5,Life Hacks,20,12,Night,3,7,Entertainment,Tablet,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+297,298,58,Female,Philippines,Instagram,75,18,Trends,29,11,Evening,6,4,Boredom,Tablet,8,2,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+298,299,53,Male,Pakistan,Facebook,100,16,Pranks,16,20,Morning,8,2,Boredom,Tablet,10,0,At work,Wi-Fi,45-54 (Older Adults),Developing
+299,300,50,Female,Germany,YouTube,173,8,Entertainment,1,1,Afternoon,5,5,Habit,Smartphone,7,3,Commuting,Wi-Fi,45-54 (Older Adults),Developed
+300,301,21,Female,Philippines,TikTok,120,11,Vlogs,17,27,Afternoon,5,5,Entertainment,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developing
+301,302,50,Male,Brazil,Facebook,132,10,Vlogs,26,3,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,45-54 (Older Adults),Developing
+302,303,31,Male,Indonesia,TikTok,202,12,Jokes/Memes,21,12,Afternoon,5,5,Boredom,Computer,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+303,304,38,Other,Indonesia,TikTok,108,6,Gaming,29,30,Evening,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+304,305,37,Other,United States,TikTok,168,5,Jokes/Memes,14,9,Evening,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developed
+305,306,25,Male,Indonesia,Facebook,112,9,Life Hacks,19,37,Night,3,7,Habit,Computer,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+306,307,24,Female,Vietnam,YouTube,290,16,Entertainment,21,1,Evening,6,4,Habit,Smartphone,8,2,At work,Wi-Fi,18-24 (Youth),Developing
+307,308,20,Male,Japan,TikTok,52,14,Trends,21,42,Morning,8,2,Entertainment,Smartphone,10,0,At home,Wi-Fi,18-24 (Youth),Developed
+308,309,34,Female,Pakistan,YouTube,93,8,Jokes/Memes,17,49,Afternoon,5,5,Habit,Computer,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+309,310,50,Male,Japan,YouTube,200,19,Jokes/Memes,14,4,Morning,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,45-54 (Older Adults),Developed
+310,311,29,Female,Pakistan,Instagram,60,14,Trends,8,15,Night,3,7,Habit,Smartphone,5,5,At school,Wi-Fi,25-44 (Young Adults),Developing
+311,312,39,Female,Mexico,Facebook,219,7,Trends,21,27,Night,3,7,Habit,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+312,313,39,Other,Pakistan,Facebook,135,5,Jokes/Memes,21,8,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+313,314,63,Female,Japan,Instagram,78,18,Jokes/Memes,9,23,Evening,6,4,Boredom,Computer,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+314,315,47,Male,Philippines,Instagram,274,2,Entertainment,8,15,Night,3,7,Procrastination,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+315,316,55,Female,Pakistan,YouTube,267,11,Gaming,13,27,Night,3,7,Entertainment,Computer,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+316,317,55,Other,Mexico,TikTok,197,8,Jokes/Memes,17,31,Afternoon,5,5,Boredom,Smartphone,7,3,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+317,318,62,Male,Mexico,Facebook,239,1,Entertainment,19,39,Night,3,7,Habit,Smartphone,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+318,319,25,Other,India,TikTok,198,12,Entertainment,28,47,Afternoon,5,5,Boredom,Smartphone,7,3,At work,Wi-Fi,25-44 (Young Adults),Developing
+319,320,44,Male,Pakistan,TikTok,19,2,Entertainment,7,8,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,35-44 (Mid Adults),Developing
+320,321,44,Female,Germany,Instagram,123,18,Life Hacks,17,30,Morning,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,35-44 (Mid Adults),Developed
+321,322,51,Male,United States,TikTok,85,7,Gaming,1,42,Afternoon,5,5,Entertainment,Tablet,7,3,At home,Mobile Data,45-54 (Older Adults),Developed
+322,323,38,Male,United States,YouTube,173,17,Comedy,5,18,Evening,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+323,324,47,Other,India,Instagram,94,14,Trends,25,4,Evening,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developing
+324,325,50,Male,Mexico,TikTok,58,7,ASMR,6,47,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Wi-Fi,45-54 (Older Adults),Developing
+325,326,45,Female,India,Instagram,186,3,Gaming,26,43,Night,3,7,Habit,Computer,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+326,327,64,Male,United States,YouTube,227,6,Gaming,2,22,Night,3,7,Entertainment,Tablet,5,5,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+327,328,50,Male,Vietnam,YouTube,198,2,ASMR,27,3,Afternoon,5,5,Boredom,Smartphone,7,3,Commuting,Mobile Data,45-54 (Older Adults),Developing
+328,329,22,Male,Brazil,TikTok,239,17,Gaming,25,15,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,18-24 (Youth),Developing
+329,330,36,Other,Pakistan,Instagram,264,12,Jokes/Memes,16,35,Afternoon,5,5,Habit,Tablet,7,3,At work,Mobile Data,35-44 (Mid Adults),Developing
+330,331,21,Other,Japan,TikTok,245,12,Jokes/Memes,22,47,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Wi-Fi,18-24 (Youth),Developed
+331,332,52,Male,India,TikTok,35,17,Life Hacks,5,38,Afternoon,5,5,Entertainment,Tablet,7,3,At work,Mobile Data,45-54 (Older Adults),Developing
+332,333,34,Other,India,Instagram,81,10,Vlogs,5,33,Afternoon,5,5,Habit,Smartphone,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+333,334,61,Female,United States,TikTok,270,3,ASMR,12,14,Evening,6,4,Entertainment,Smartphone,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+334,335,45,Female,Pakistan,YouTube,263,18,ASMR,3,48,Night,3,7,Boredom,Smartphone,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+335,336,47,Female,India,Instagram,280,13,Trends,16,1,Afternoon,5,5,Boredom,Tablet,7,3,Commuting,Mobile Data,45-54 (Older Adults),Developing
+336,337,46,Male,Brazil,Instagram,132,12,ASMR,6,49,Night,3,7,Procrastination,Tablet,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+337,338,63,Male,India,Instagram,153,17,Gaming,15,26,Evening,6,4,Entertainment,Tablet,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+338,339,23,Female,United States,Instagram,266,4,Life Hacks,15,8,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,18-24 (Youth),Developed
+339,340,52,Male,India,TikTok,153,10,Gaming,29,16,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+340,341,58,Male,India,TikTok,268,11,Life Hacks,16,38,Morning,8,2,Boredom,Computer,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+341,342,54,Other,Vietnam,YouTube,56,6,Entertainment,20,10,Morning,8,2,Entertainment,Tablet,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+342,343,41,Female,India,Facebook,22,6,ASMR,13,42,Morning,8,2,Habit,Computer,10,0,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+343,344,46,Male,India,Facebook,217,9,Vlogs,12,37,Evening,6,4,Entertainment,Smartphone,8,2,At school,Wi-Fi,45-54 (Older Adults),Developing
+344,345,63,Female,Brazil,YouTube,244,15,Entertainment,10,26,Evening,6,4,Boredom,Smartphone,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+345,346,48,Female,United States,Facebook,158,2,ASMR,14,28,Night,3,7,Boredom,Computer,5,5,At home,Wi-Fi,45-54 (Older Adults),Developed
+346,347,52,Male,India,YouTube,164,4,Life Hacks,2,12,Evening,6,4,Habit,Smartphone,8,2,At school,Wi-Fi,45-54 (Older Adults),Developing
+347,348,50,Other,Indonesia,TikTok,175,5,Comedy,29,20,Evening,6,4,Boredom,Tablet,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+348,349,38,Female,United States,Instagram,99,17,Life Hacks,3,49,Morning,8,2,Boredom,Smartphone,10,0,At work,Wi-Fi,35-44 (Mid Adults),Developed
+349,350,49,Male,India,Instagram,195,8,Life Hacks,9,14,Night,3,7,Entertainment,Smartphone,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+350,351,40,Male,Vietnam,TikTok,183,8,Comedy,11,46,Morning,8,2,Habit,Tablet,10,0,At home,Wi-Fi,35-44 (Mid Adults),Developing
+351,352,50,Male,Brazil,Instagram,226,12,Entertainment,11,35,Evening,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,45-54 (Older Adults),Developing
+352,353,20,Other,Germany,Instagram,273,8,Jokes/Memes,25,29,Afternoon,5,5,Habit,Tablet,7,3,At work,Mobile Data,18-24 (Youth),Developed
+353,354,35,Female,Pakistan,Facebook,106,19,Trends,22,12,Night,3,7,Habit,Computer,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+354,355,42,Female,Japan,TikTok,126,3,Trends,10,18,Night,3,7,Boredom,Smartphone,5,5,At school,Wi-Fi,35-44 (Mid Adults),Developed
+355,356,59,Male,Philippines,Facebook,208,18,Jokes/Memes,26,44,Night,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+356,357,48,Female,Philippines,Facebook,30,19,Entertainment,14,2,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+357,358,20,Other,Japan,Instagram,209,19,Pranks,9,2,Morning,8,2,Habit,Smartphone,10,0,At home,Mobile Data,18-24 (Youth),Developed
+358,359,57,Male,Japan,Instagram,257,15,Trends,20,17,Night,3,7,Entertainment,Tablet,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+359,360,63,Male,India,TikTok,285,6,Jokes/Memes,27,10,Evening,6,4,Boredom,Computer,8,2,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+360,361,41,Male,India,Instagram,273,16,Jokes/Memes,21,18,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+361,362,49,Other,Brazil,Instagram,67,8,Trends,10,22,Afternoon,5,5,Entertainment,Tablet,7,3,At work,Mobile Data,45-54 (Older Adults),Developing
+362,363,64,Male,United States,TikTok,40,16,Jokes/Memes,22,19,Evening,6,4,Procrastination,Smartphone,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+363,364,39,Female,India,Instagram,258,18,Jokes/Memes,29,1,Morning,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,35-44 (Mid Adults),Developing
+364,365,40,Female,India,Facebook,102,16,Trends,9,24,Evening,6,4,Boredom,Smartphone,8,2,At work,Wi-Fi,35-44 (Mid Adults),Developing
+365,366,19,Male,Pakistan,TikTok,274,11,Entertainment,29,36,Afternoon,5,5,Boredom,Smartphone,7,3,At work,Mobile Data,18-24 (Youth),Developing
+366,367,44,Male,Indonesia,Instagram,280,7,Gaming,5,25,Night,3,7,Procrastination,Tablet,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+367,368,59,Male,Philippines,YouTube,103,17,Jokes/Memes,8,36,Night,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+368,369,19,Female,Brazil,TikTok,163,17,Jokes/Memes,11,31,Night,3,7,Habit,Smartphone,5,5,Commuting,Mobile Data,18-24 (Youth),Developing
+369,370,43,Male,Japan,TikTok,294,12,Gaming,1,31,Evening,6,4,Entertainment,Tablet,8,2,At work,Wi-Fi,35-44 (Mid Adults),Developed
+370,371,34,Male,India,YouTube,89,13,Gaming,21,2,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+371,372,57,Female,Germany,Instagram,93,10,Life Hacks,10,19,Afternoon,5,5,Habit,Tablet,7,3,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+372,373,50,Male,Brazil,Instagram,46,7,Entertainment,1,12,Evening,6,4,Boredom,Computer,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developing
+373,374,26,Female,Mexico,TikTok,241,14,Pranks,26,10,Morning,8,2,Habit,Tablet,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+374,375,60,Other,Vietnam,TikTok,102,1,Gaming,22,31,Night,3,7,Boredom,Smartphone,5,5,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+375,376,56,Female,India,Instagram,111,17,Jokes/Memes,7,45,Morning,8,2,Entertainment,Smartphone,10,0,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+376,377,46,Other,United States,Instagram,175,4,Pranks,28,22,Afternoon,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,45-54 (Older Adults),Developed
+377,378,59,Female,Pakistan,Facebook,168,5,Pranks,14,23,Night,3,7,Habit,Tablet,5,5,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+378,379,43,Female,Indonesia,TikTok,23,7,Jokes/Memes,5,23,Morning,8,2,Habit,Smartphone,10,0,At school,Mobile Data,35-44 (Mid Adults),Developing
+379,380,52,Other,Pakistan,TikTok,234,10,Jokes/Memes,17,15,Afternoon,5,5,Habit,Tablet,7,3,At school,Mobile Data,45-54 (Older Adults),Developing
+380,381,42,Male,Brazil,YouTube,82,17,Gaming,22,26,Evening,6,4,Habit,Computer,8,2,At home,Wi-Fi,35-44 (Mid Adults),Developing
+381,382,41,Male,Philippines,Facebook,258,7,Gaming,26,3,Evening,6,4,Entertainment,Tablet,8,2,At work,Wi-Fi,35-44 (Mid Adults),Developing
+382,383,30,Male,United States,Instagram,100,1,Jokes/Memes,21,23,Evening,6,4,Habit,Tablet,8,2,At work,Mobile Data,25-44 (Young Adults),Developed
+383,384,24,Male,Mexico,Facebook,225,7,ASMR,6,20,Afternoon,5,5,Habit,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developing
+384,385,53,Female,United States,Instagram,99,11,ASMR,16,45,Afternoon,5,5,Entertainment,Tablet,7,3,At work,Mobile Data,45-54 (Older Adults),Developed
+385,386,62,Male,India,Instagram,38,9,Trends,11,40,Evening,6,4,Entertainment,Smartphone,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+386,387,37,Female,United States,Facebook,229,12,Life Hacks,10,39,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developed
+387,388,18,Male,India,TikTok,224,3,Entertainment,15,8,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,18-24 (Youth),Developing
+388,389,25,Male,Japan,Instagram,230,4,Gaming,7,18,Night,3,7,Procrastination,Smartphone,5,5,At work,Mobile Data,25-44 (Young Adults),Developed
+389,390,63,Male,Mexico,Facebook,51,4,ASMR,23,41,Night,3,7,Procrastination,Tablet,5,5,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+390,391,33,Male,India,YouTube,144,13,Life Hacks,2,6,Evening,6,4,Habit,Computer,8,2,At work,Mobile Data,25-44 (Young Adults),Developing
+391,392,31,Female,Germany,Facebook,51,19,Pranks,12,27,Evening,6,4,Boredom,Tablet,8,2,At home,Wi-Fi,25-44 (Young Adults),Developed
+392,393,29,Male,Indonesia,YouTube,173,10,Jokes/Memes,19,36,Night,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+393,394,40,Male,Japan,Instagram,292,5,Vlogs,12,15,Evening,6,4,Boredom,Computer,8,2,Commuting,Wi-Fi,35-44 (Mid Adults),Developed
+394,395,32,Male,Brazil,Facebook,67,7,Jokes/Memes,16,37,Night,3,7,Habit,Computer,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+395,396,45,Other,United States,Facebook,34,16,Pranks,6,5,Evening,6,4,Boredom,Smartphone,8,2,At home,Wi-Fi,45-54 (Older Adults),Developed
+396,397,51,Female,Philippines,YouTube,82,1,Life Hacks,3,39,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+397,398,19,Other,India,Facebook,138,12,Entertainment,2,9,Night,3,7,Habit,Tablet,5,5,At home,Mobile Data,18-24 (Youth),Developing
+398,399,49,Other,Vietnam,Facebook,96,2,Vlogs,20,7,Morning,8,2,Habit,Computer,10,0,At home,Wi-Fi,45-54 (Older Adults),Developing
+399,400,40,Male,India,Instagram,162,7,Gaming,5,41,Morning,8,2,Habit,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+400,401,39,Male,Vietnam,Facebook,191,11,Vlogs,11,20,Afternoon,5,5,Procrastination,Computer,7,3,At home,Mobile Data,35-44 (Mid Adults),Developing
+401,402,42,Female,United States,TikTok,134,13,Life Hacks,26,10,Afternoon,5,5,Boredom,Smartphone,7,3,At work,Mobile Data,35-44 (Mid Adults),Developed
+402,403,39,Female,Vietnam,YouTube,76,2,Gaming,25,26,Afternoon,5,5,Boredom,Smartphone,7,3,At school,Mobile Data,35-44 (Mid Adults),Developing
+403,404,39,Female,Germany,Facebook,15,7,Vlogs,3,4,Afternoon,5,5,Procrastination,Smartphone,7,3,At home,Mobile Data,35-44 (Mid Adults),Developed
+404,405,59,Male,United States,YouTube,134,15,Entertainment,3,38,Evening,6,4,Boredom,Tablet,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+405,406,23,Male,Mexico,YouTube,62,11,Pranks,22,24,Morning,8,2,Boredom,Tablet,10,0,At school,Mobile Data,18-24 (Youth),Developing
+406,407,32,Female,Indonesia,YouTube,75,2,Life Hacks,5,14,Evening,6,4,Procrastination,Tablet,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+407,408,60,Male,Mexico,Facebook,91,7,Entertainment,22,41,Night,3,7,Habit,Computer,5,5,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+408,409,54,Male,India,Facebook,96,4,Entertainment,23,1,Evening,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developing
+409,410,50,Other,India,YouTube,11,11,Jokes/Memes,11,17,Night,3,7,Procrastination,Tablet,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+410,411,25,Male,Indonesia,TikTok,213,2,Jokes/Memes,3,45,Night,3,7,Habit,Computer,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+411,412,61,Male,Vietnam,YouTube,159,16,Vlogs,13,24,Morning,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+412,413,61,Male,Philippines,TikTok,112,7,Trends,21,27,Afternoon,5,5,Entertainment,Smartphone,7,3,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+413,414,22,Female,Pakistan,YouTube,33,13,ASMR,8,7,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developing
+414,415,56,Male,India,Instagram,221,5,Gaming,20,9,Morning,8,2,Boredom,Tablet,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+415,416,21,Female,Indonesia,YouTube,74,17,ASMR,10,43,Night,3,7,Boredom,Smartphone,5,5,Commuting,Mobile Data,18-24 (Youth),Developing
+416,417,23,Female,Indonesia,YouTube,218,12,ASMR,2,35,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developing
+417,418,62,Male,India,Facebook,260,19,Jokes/Memes,4,12,Afternoon,5,5,Boredom,Smartphone,7,3,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+418,419,49,Male,Brazil,TikTok,126,7,Life Hacks,18,21,Night,3,7,Habit,Smartphone,5,5,Commuting,Wi-Fi,45-54 (Older Adults),Developing
+419,420,47,Male,Vietnam,Instagram,125,6,Vlogs,19,3,Morning,8,2,Habit,Smartphone,10,0,At school,Wi-Fi,45-54 (Older Adults),Developing
+420,421,64,Male,India,TikTok,246,8,Entertainment,4,15,Evening,6,4,Boredom,Smartphone,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+421,422,52,Male,Indonesia,Instagram,114,13,Gaming,20,21,Morning,8,2,Boredom,Tablet,10,0,Commuting,Wi-Fi,45-54 (Older Adults),Developing
+422,423,57,Male,India,YouTube,268,5,Pranks,26,10,Night,3,7,Entertainment,Tablet,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+423,424,33,Male,India,Facebook,55,2,Jokes/Memes,9,33,Evening,6,4,Procrastination,Smartphone,8,2,At work,Mobile Data,25-44 (Young Adults),Developing
+424,425,30,Male,India,Facebook,225,9,Comedy,16,46,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,25-44 (Young Adults),Developing
+425,426,59,Female,Brazil,TikTok,33,11,Pranks,26,6,Night,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+426,427,47,Male,United States,Facebook,44,6,ASMR,6,2,Evening,6,4,Habit,Computer,8,2,At home,Wi-Fi,45-54 (Older Adults),Developed
+427,428,36,Male,Mexico,TikTok,33,7,Trends,25,29,Evening,6,4,Entertainment,Smartphone,8,2,Commuting,Wi-Fi,35-44 (Mid Adults),Developing
+428,429,34,Male,Indonesia,TikTok,37,7,Vlogs,4,40,Evening,6,4,Boredom,Computer,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+429,430,36,Female,Vietnam,Instagram,25,19,Pranks,9,33,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developing
+430,431,45,Male,Pakistan,TikTok,68,6,Trends,27,4,Night,3,7,Boredom,Smartphone,5,5,At home,Wi-Fi,45-54 (Older Adults),Developing
+431,432,43,Female,United States,Instagram,252,11,Comedy,13,4,Evening,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developed
+432,433,54,Female,United States,Facebook,216,11,Gaming,9,29,Afternoon,5,5,Habit,Smartphone,7,3,At work,Wi-Fi,45-54 (Older Adults),Developed
+433,434,43,Male,Philippines,TikTok,280,7,Comedy,6,37,Night,3,7,Entertainment,Tablet,5,5,At work,Wi-Fi,35-44 (Mid Adults),Developing
+434,435,40,Other,Philippines,TikTok,258,2,Life Hacks,21,20,Evening,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,35-44 (Mid Adults),Developing
+435,436,26,Other,Japan,YouTube,276,19,Vlogs,19,41,Morning,8,2,Boredom,Tablet,10,0,At home,Wi-Fi,25-44 (Young Adults),Developed
+436,437,29,Female,Brazil,TikTok,202,4,Trends,14,23,Night,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+437,438,18,Female,Pakistan,TikTok,227,6,Pranks,21,45,Afternoon,6,4,Entertainment,Tablet,8,2,At school,Wi-Fi,18-24 (Youth),Developing
+438,439,18,Male,Japan,YouTube,124,17,ASMR,15,18,Evening,7,3,Habit,Smartphone,9,1,At work,Mobile Data,18-24 (Youth),Developed
+439,440,64,Male,Brazil,YouTube,77,5,Jokes/Memes,3,49,Night,2,8,Entertainment,Smartphone,4,6,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+440,441,51,Female,Vietnam,Facebook,84,7,Entertainment,5,25,Night,2,8,Entertainment,Smartphone,4,6,At work,Mobile Data,45-54 (Older Adults),Developing
+441,442,49,Male,India,TikTok,112,9,Vlogs,21,1,Evening,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,45-54 (Older Adults),Developing
+442,443,42,Male,Vietnam,Facebook,187,1,Pranks,18,15,Morning,9,1,Habit,Smartphone,10,0,At work,Mobile Data,35-44 (Mid Adults),Developing
+443,444,57,Male,Mexico,Facebook,224,1,Life Hacks,14,34,Evening,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+444,445,62,Male,United States,YouTube,48,19,Life Hacks,16,48,Evening,7,3,Boredom,Tablet,9,1,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+445,446,18,Male,India,Instagram,268,6,Life Hacks,14,20,Night,2,8,Entertainment,Smartphone,4,6,At work,Mobile Data,18-24 (Youth),Developing
+446,447,33,Female,Philippines,Facebook,213,18,Gaming,9,37,Morning,9,1,Entertainment,Smartphone,10,0,At home,Wi-Fi,25-44 (Young Adults),Developing
+447,448,56,Male,Brazil,Instagram,16,10,Vlogs,15,27,Evening,7,3,Boredom,Smartphone,9,1,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+448,449,22,Male,Vietnam,TikTok,58,11,Trends,7,22,Night,2,8,Boredom,Tablet,4,6,At school,Mobile Data,18-24 (Youth),Developing
+449,450,39,Female,India,YouTube,35,1,Entertainment,14,5,Evening,7,3,Boredom,Smartphone,9,1,At home,Mobile Data,35-44 (Mid Adults),Developing
+450,451,46,Other,Mexico,TikTok,170,1,Jokes/Memes,6,34,Afternoon,6,4,Habit,Smartphone,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+451,452,20,Male,Indonesia,TikTok,185,13,Entertainment,21,39,Evening,7,3,Boredom,Smartphone,9,1,At work,Mobile Data,18-24 (Youth),Developing
+452,453,29,Male,United States,YouTube,88,5,Entertainment,15,3,Evening,7,3,Entertainment,Computer,9,1,At work,Wi-Fi,25-44 (Young Adults),Developed
+453,454,43,Male,United States,TikTok,11,1,Vlogs,20,17,Evening,7,3,Boredom,Tablet,9,1,At home,Wi-Fi,35-44 (Mid Adults),Developed
+454,455,33,Male,Mexico,YouTube,141,3,Entertainment,8,24,Night,2,8,Entertainment,Smartphone,4,6,At home,Mobile Data,25-44 (Young Adults),Developing
+455,456,54,Other,Mexico,Instagram,285,18,Trends,2,24,Afternoon,6,4,Entertainment,Tablet,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developing
+456,457,39,Other,Vietnam,TikTok,126,9,Jokes/Memes,8,3,Evening,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,35-44 (Mid Adults),Developing
+457,458,46,Male,India,YouTube,173,14,Trends,1,45,Evening,7,3,Entertainment,Tablet,9,1,At home,Mobile Data,45-54 (Older Adults),Developing
+458,459,31,Female,Japan,Facebook,297,17,Vlogs,26,7,Afternoon,6,4,Boredom,Tablet,8,2,At work,Mobile Data,25-44 (Young Adults),Developed
+459,460,45,Male,United States,TikTok,37,14,Entertainment,17,25,Afternoon,6,4,Habit,Tablet,8,2,At work,Mobile Data,45-54 (Older Adults),Developed
+460,461,22,Female,United States,Instagram,10,4,Vlogs,19,3,Afternoon,6,4,Procrastination,Tablet,8,2,At home,Wi-Fi,18-24 (Youth),Developed
+461,462,64,Male,Indonesia,YouTube,197,5,Life Hacks,5,15,Afternoon,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+462,463,47,Female,Indonesia,TikTok,65,17,Jokes/Memes,22,29,Morning,9,1,Procrastination,Tablet,10,0,At home,Wi-Fi,45-54 (Older Adults),Developing
+463,464,63,Male,India,TikTok,44,2,Life Hacks,20,29,Afternoon,6,4,Entertainment,Smartphone,8,2,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+464,465,22,Male,Mexico,TikTok,121,5,Jokes/Memes,16,10,Night,2,8,Habit,Tablet,4,6,At work,Mobile Data,18-24 (Youth),Developing
+465,466,29,Female,Brazil,Instagram,295,4,ASMR,7,32,Evening,7,3,Habit,Smartphone,9,1,At home,Wi-Fi,25-44 (Young Adults),Developing
+466,467,33,Female,India,YouTube,45,4,Trends,7,23,Afternoon,6,4,Entertainment,Smartphone,8,2,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+467,468,43,Male,United States,Facebook,226,6,Vlogs,18,39,Evening,7,3,Procrastination,Smartphone,9,1,At school,Wi-Fi,35-44 (Mid Adults),Developed
+468,469,43,Female,Vietnam,Facebook,89,13,Life Hacks,18,9,Morning,9,1,Boredom,Smartphone,10,0,At work,Mobile Data,35-44 (Mid Adults),Developing
+469,470,38,Male,Indonesia,Facebook,92,5,Vlogs,2,37,Night,2,8,Entertainment,Smartphone,4,6,At school,Wi-Fi,35-44 (Mid Adults),Developing
+470,471,56,Other,United States,YouTube,74,7,Jokes/Memes,15,40,Morning,9,1,Habit,Smartphone,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+471,472,53,Female,India,Facebook,137,1,Gaming,14,14,Night,2,8,Entertainment,Tablet,4,6,At home,Mobile Data,45-54 (Older Adults),Developing
+472,473,50,Other,Philippines,Instagram,31,14,Comedy,18,4,Night,2,8,Habit,Tablet,4,6,At work,Mobile Data,45-54 (Older Adults),Developing
+473,474,47,Male,United States,YouTube,225,4,Jokes/Memes,29,20,Afternoon,6,4,Habit,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developed
+474,475,54,Male,India,TikTok,116,17,Life Hacks,9,28,Morning,9,1,Boredom,Smartphone,10,0,Commuting,Wi-Fi,45-54 (Older Adults),Developing
+475,476,40,Male,Brazil,Instagram,118,14,Comedy,14,14,Night,2,8,Entertainment,Smartphone,4,6,At home,Wi-Fi,35-44 (Mid Adults),Developing
+476,477,27,Female,India,TikTok,190,16,Life Hacks,5,44,Morning,9,1,Habit,Smartphone,10,0,At school,Mobile Data,25-44 (Young Adults),Developing
+477,478,22,Male,Philippines,Facebook,173,14,Gaming,11,34,Afternoon,6,4,Procrastination,Computer,8,2,At home,Mobile Data,18-24 (Youth),Developing
+478,479,53,Male,India,Instagram,77,16,Entertainment,8,13,Evening,7,3,Entertainment,Smartphone,9,1,At home,Mobile Data,45-54 (Older Adults),Developing
+479,480,51,Female,Japan,YouTube,189,8,Trends,5,31,Evening,7,3,Entertainment,Smartphone,9,1,Commuting,Wi-Fi,45-54 (Older Adults),Developed
+480,481,48,Other,United States,Instagram,190,3,Pranks,29,33,Night,2,8,Entertainment,Smartphone,4,6,At home,Wi-Fi,45-54 (Older Adults),Developed
+481,482,27,Female,India,TikTok,178,19,Jokes/Memes,11,39,Morning,9,1,Procrastination,Smartphone,10,0,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+482,483,36,Male,Germany,YouTube,31,1,Life Hacks,5,28,Night,2,8,Boredom,Tablet,4,6,At home,Wi-Fi,35-44 (Mid Adults),Developed
+483,484,49,Female,Japan,Instagram,75,2,Comedy,17,25,Afternoon,6,4,Habit,Tablet,8,2,At home,Mobile Data,45-54 (Older Adults),Developed
+484,485,18,Male,Japan,Instagram,30,15,Trends,22,32,Evening,7,3,Habit,Smartphone,9,1,At home,Mobile Data,18-24 (Youth),Developed
+485,486,22,Female,India,Instagram,109,10,Trends,4,9,Evening,7,3,Boredom,Tablet,9,1,At home,Mobile Data,18-24 (Youth),Developing
+486,487,62,Male,Germany,Instagram,112,18,Life Hacks,15,28,Night,2,8,Entertainment,Tablet,4,6,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+487,488,21,Other,India,YouTube,56,14,Life Hacks,19,31,Afternoon,6,4,Boredom,Smartphone,8,2,At work,Wi-Fi,18-24 (Youth),Developing
+488,489,33,Male,United States,TikTok,48,17,Gaming,22,17,Evening,7,3,Boredom,Smartphone,9,1,At home,Wi-Fi,25-44 (Young Adults),Developed
+489,490,41,Female,Brazil,Instagram,294,13,Pranks,2,23,Evening,7,3,Entertainment,Computer,9,1,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+490,491,33,Female,Pakistan,YouTube,99,1,Vlogs,24,13,Evening,7,3,Entertainment,Tablet,9,1,At home,Wi-Fi,25-44 (Young Adults),Developing
+491,492,19,Male,United States,TikTok,94,5,Jokes/Memes,17,10,Evening,7,3,Habit,Smartphone,9,1,At work,Mobile Data,18-24 (Youth),Developed
+492,493,45,Female,India,Instagram,282,13,ASMR,12,16,Night,2,8,Boredom,Tablet,4,6,At home,Mobile Data,45-54 (Older Adults),Developing
+493,494,49,Male,Brazil,TikTok,197,14,Entertainment,25,6,Night,2,8,Habit,Tablet,4,6,At home,Mobile Data,45-54 (Older Adults),Developing
+494,495,44,Male,Indonesia,TikTok,168,3,Gaming,24,48,Afternoon,6,4,Procrastination,Computer,8,2,At school,Mobile Data,35-44 (Mid Adults),Developing
+495,496,37,Male,India,YouTube,252,15,Jokes/Memes,17,11,Night,2,8,Procrastination,Smartphone,4,6,At work,Mobile Data,35-44 (Mid Adults),Developing
+496,497,41,Female,Indonesia,TikTok,82,19,Vlogs,10,3,Night,2,8,Entertainment,Tablet,4,6,At home,Mobile Data,35-44 (Mid Adults),Developing
+497,498,29,Female,Germany,YouTube,58,17,Entertainment,28,28,Night,2,8,Entertainment,Tablet,4,6,At home,Mobile Data,25-44 (Young Adults),Developed
+498,499,52,Male,Indonesia,Instagram,110,3,Gaming,25,41,Morning,9,1,Entertainment,Computer,10,0,At work,Mobile Data,45-54 (Older Adults),Developing
+499,500,50,Female,Vietnam,TikTok,11,16,Jokes/Memes,18,15,Morning,9,1,Boredom,Tablet,10,0,At home,Wi-Fi,45-54 (Older Adults),Developing
+500,501,50,Male,United States,TikTok,253,14,Vlogs,19,13,Night,2,8,Habit,Tablet,4,6,At home,Wi-Fi,45-54 (Older Adults),Developed
+501,502,60,Other,United States,Facebook,185,12,Vlogs,18,42,Morning,9,1,Entertainment,Tablet,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+502,503,54,Male,Pakistan,Instagram,247,12,Jokes/Memes,13,45,Evening,7,3,Entertainment,Tablet,9,1,At home,Mobile Data,45-54 (Older Adults),Developing
+503,504,29,Male,Vietnam,Instagram,68,11,Life Hacks,14,17,Morning,9,1,Boredom,Smartphone,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+504,505,20,Female,India,Facebook,108,17,ASMR,24,7,Afternoon,6,4,Boredom,Smartphone,8,2,Commuting,Wi-Fi,18-24 (Youth),Developing
+505,506,18,Male,Pakistan,Facebook,11,8,Jokes/Memes,16,28,Afternoon,6,4,Entertainment,Computer,8,2,At school,Mobile Data,18-24 (Youth),Developing
+506,507,50,Male,Indonesia,YouTube,252,17,Jokes/Memes,18,38,Evening,7,3,Entertainment,Tablet,9,1,At work,Mobile Data,45-54 (Older Adults),Developing
+507,508,57,Female,India,YouTube,220,11,Comedy,26,13,Evening,7,3,Habit,Smartphone,9,1,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+508,509,27,Female,Philippines,TikTok,132,2,Vlogs,18,17,Afternoon,6,4,Entertainment,Smartphone,8,2,At work,Mobile Data,25-44 (Young Adults),Developing
+509,510,60,Other,India,TikTok,238,10,Pranks,16,15,Night,2,8,Procrastination,Smartphone,4,6,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+510,511,61,Female,Mexico,TikTok,91,10,Jokes/Memes,17,36,Night,2,8,Habit,Smartphone,4,6,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+511,512,46,Male,Pakistan,TikTok,153,11,Gaming,7,28,Afternoon,6,4,Boredom,Smartphone,8,2,At school,Wi-Fi,45-54 (Older Adults),Developing
+512,513,30,Female,Indonesia,YouTube,149,6,ASMR,12,15,Morning,9,1,Entertainment,Smartphone,10,0,At work,Wi-Fi,25-44 (Young Adults),Developing
+513,514,29,Female,India,Instagram,38,4,Vlogs,2,46,Night,2,8,Entertainment,Smartphone,4,6,At home,Mobile Data,25-44 (Young Adults),Developing
+514,515,48,Other,Brazil,TikTok,279,12,Comedy,10,11,Afternoon,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developing
+515,516,63,Male,United States,Instagram,256,11,Entertainment,5,31,Evening,7,3,Procrastination,Smartphone,9,1,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+516,517,19,Male,Japan,TikTok,21,13,Vlogs,21,4,Afternoon,6,4,Habit,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developed
+517,518,52,Male,United States,Facebook,115,5,Trends,3,35,Morning,9,1,Entertainment,Smartphone,10,0,At work,Mobile Data,45-54 (Older Adults),Developed
+518,519,40,Female,India,TikTok,41,6,Gaming,19,34,Morning,9,1,Boredom,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+519,520,34,Male,India,TikTok,83,1,Life Hacks,13,27,Afternoon,6,4,Boredom,Tablet,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+520,521,43,Male,Germany,TikTok,180,6,Vlogs,12,10,Night,2,8,Entertainment,Smartphone,4,6,At school,Mobile Data,35-44 (Mid Adults),Developed
+521,522,25,Other,India,YouTube,78,18,Life Hacks,3,30,Evening,7,3,Entertainment,Smartphone,9,1,At school,Wi-Fi,25-44 (Young Adults),Developing
+522,523,46,Female,India,Facebook,146,9,Trends,6,45,Afternoon,6,4,Habit,Computer,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+523,524,43,Male,India,TikTok,109,15,Jokes/Memes,14,20,Evening,7,3,Entertainment,Smartphone,9,1,At school,Mobile Data,35-44 (Mid Adults),Developing
+524,525,27,Other,United States,TikTok,155,8,Jokes/Memes,4,29,Afternoon,6,4,Habit,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developed
+525,526,43,Male,India,Instagram,18,19,Life Hacks,13,29,Morning,9,1,Boredom,Smartphone,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+526,527,51,Male,Pakistan,Facebook,71,16,Life Hacks,19,23,Afternoon,6,4,Procrastination,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developing
+527,528,58,Other,Japan,TikTok,194,6,Trends,18,21,Evening,7,3,Habit,Smartphone,9,1,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+528,529,24,Male,India,Instagram,38,6,Comedy,29,48,Night,2,8,Habit,Computer,4,6,At school,Mobile Data,18-24 (Youth),Developing
+529,530,21,Female,Japan,Instagram,123,3,Gaming,3,43,Night,2,8,Boredom,Smartphone,4,6,At work,Wi-Fi,18-24 (Youth),Developed
+530,531,62,Male,Philippines,YouTube,152,10,Entertainment,20,10,Night,2,8,Procrastination,Tablet,4,6,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+531,532,28,Female,Indonesia,Instagram,129,1,Pranks,6,41,Evening,7,3,Procrastination,Smartphone,9,1,At home,Mobile Data,25-44 (Young Adults),Developing
+532,533,46,Male,India,TikTok,179,14,Jokes/Memes,16,12,Night,2,8,Entertainment,Smartphone,4,6,At work,Mobile Data,45-54 (Older Adults),Developing
+533,534,53,Female,United States,YouTube,166,4,Vlogs,20,30,Night,2,8,Entertainment,Smartphone,4,6,At home,Mobile Data,45-54 (Older Adults),Developed
+534,535,42,Other,India,YouTube,269,12,Gaming,24,33,Night,2,8,Habit,Computer,4,6,At home,Wi-Fi,35-44 (Mid Adults),Developing
+535,536,38,Male,Indonesia,TikTok,91,6,Life Hacks,3,18,Night,2,8,Entertainment,Tablet,4,6,At school,Mobile Data,35-44 (Mid Adults),Developing
+536,537,53,Female,Philippines,Facebook,251,11,Trends,12,14,Evening,7,3,Procrastination,Smartphone,9,1,At school,Mobile Data,45-54 (Older Adults),Developing
+537,538,27,Male,United States,Instagram,181,12,ASMR,19,22,Night,2,8,Boredom,Smartphone,4,6,At home,Mobile Data,25-44 (Young Adults),Developed
+538,539,54,Male,India,YouTube,240,10,Life Hacks,19,21,Evening,7,3,Boredom,Tablet,9,1,At work,Mobile Data,45-54 (Older Adults),Developing
+539,540,26,Other,India,Facebook,217,18,Gaming,24,1,Evening,7,3,Boredom,Tablet,9,1,At school,Mobile Data,25-44 (Young Adults),Developing
+540,541,41,Male,Japan,TikTok,84,7,Trends,4,49,Evening,7,3,Habit,Computer,9,1,Commuting,Wi-Fi,35-44 (Mid Adults),Developed
+541,542,52,Male,Indonesia,Instagram,279,7,Trends,1,43,Night,2,8,Habit,Computer,4,6,At work,Mobile Data,45-54 (Older Adults),Developing
+542,543,52,Male,Japan,Instagram,123,11,Trends,2,15,Night,2,8,Boredom,Tablet,4,6,At school,Wi-Fi,45-54 (Older Adults),Developed
+543,544,53,Other,Philippines,YouTube,71,4,Jokes/Memes,13,36,Night,2,8,Habit,Smartphone,4,6,At home,Mobile Data,45-54 (Older Adults),Developing
+544,545,35,Other,United States,Instagram,111,1,Pranks,26,47,Afternoon,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+545,546,56,Female,India,Instagram,219,13,Jokes/Memes,29,22,Afternoon,6,4,Habit,Tablet,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+546,547,49,Female,Mexico,Instagram,264,18,Comedy,13,32,Evening,7,3,Habit,Tablet,9,1,At school,Mobile Data,45-54 (Older Adults),Developing
+547,548,41,Female,United States,Instagram,29,9,ASMR,2,46,Evening,7,3,Boredom,Tablet,9,1,At school,Mobile Data,35-44 (Mid Adults),Developed
+548,549,40,Other,India,TikTok,67,9,Life Hacks,19,33,Evening,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,35-44 (Mid Adults),Developing
+549,550,49,Male,United States,Facebook,121,9,Vlogs,22,41,Night,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,45-54 (Older Adults),Developed
+550,551,54,Male,Japan,TikTok,205,10,Vlogs,24,39,Night,3,7,Procrastination,Tablet,5,5,At school,Wi-Fi,45-54 (Older Adults),Developed
+551,552,29,Male,United States,TikTok,101,2,ASMR,16,23,Afternoon,6,4,Boredom,Tablet,8,2,At home,Wi-Fi,25-44 (Young Adults),Developed
+552,553,30,Male,Philippines,YouTube,61,6,Comedy,12,43,Night,3,7,Entertainment,Computer,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+553,554,40,Other,Vietnam,Instagram,17,15,Gaming,1,2,Evening,7,3,Procrastination,Tablet,9,1,At home,Wi-Fi,35-44 (Mid Adults),Developing
+554,555,42,Male,Vietnam,TikTok,107,3,Entertainment,9,2,Afternoon,6,4,Boredom,Tablet,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+555,556,52,Male,Vietnam,Instagram,245,11,Jokes/Memes,17,38,Evening,7,3,Habit,Tablet,9,1,At work,Mobile Data,45-54 (Older Adults),Developing
+556,557,58,Male,Philippines,TikTok,78,6,Jokes/Memes,10,29,Evening,7,3,Entertainment,Smartphone,9,1,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+557,558,47,Female,United States,TikTok,54,3,Entertainment,18,46,Evening,7,3,Habit,Smartphone,9,1,Commuting,Mobile Data,45-54 (Older Adults),Developed
+558,559,34,Female,India,YouTube,146,11,Pranks,19,3,Evening,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,25-44 (Young Adults),Developing
+559,560,37,Male,Philippines,Facebook,243,15,Pranks,7,39,Morning,9,1,Habit,Computer,10,0,At work,Mobile Data,35-44 (Mid Adults),Developing
+560,561,42,Female,Vietnam,Facebook,41,13,Pranks,25,7,Night,3,7,Habit,Smartphone,5,5,At work,Wi-Fi,35-44 (Mid Adults),Developing
+561,562,39,Male,Indonesia,TikTok,298,10,Gaming,19,36,Night,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+562,563,30,Male,Philippines,YouTube,135,6,Trends,24,29,Afternoon,6,4,Entertainment,Tablet,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developing
+563,564,36,Male,Germany,Instagram,76,15,Pranks,15,37,Evening,7,3,Procrastination,Smartphone,9,1,At work,Mobile Data,35-44 (Mid Adults),Developed
+564,565,53,Male,India,Instagram,39,18,Vlogs,9,49,Evening,7,3,Procrastination,Smartphone,9,1,At home,Mobile Data,45-54 (Older Adults),Developing
+565,566,29,Female,Vietnam,TikTok,123,18,Comedy,10,36,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+566,567,58,Other,Brazil,Facebook,213,7,Jokes/Memes,23,23,Evening,5,5,Habit,Smartphone,7,3,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+567,568,36,Other,India,YouTube,38,15,Trends,20,45,Evening,5,5,Boredom,Smartphone,7,3,At school,Mobile Data,35-44 (Mid Adults),Developing
+568,569,29,Male,India,Facebook,140,18,Vlogs,20,16,Evening,5,5,Boredom,Smartphone,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+569,570,26,Other,United States,Instagram,194,18,Jokes/Memes,4,48,Night,1,9,Procrastination,Smartphone,3,7,At work,Wi-Fi,25-44 (Young Adults),Developed
+570,571,24,Male,India,Facebook,262,9,Life Hacks,6,31,Night,1,9,Habit,Smartphone,3,7,At home,Mobile Data,18-24 (Youth),Developing
+571,572,45,Female,India,Instagram,295,2,Jokes/Memes,4,34,Night,1,9,Habit,Tablet,3,7,At home,Mobile Data,45-54 (Older Adults),Developing
+572,573,31,Male,Pakistan,YouTube,71,8,Jokes/Memes,5,1,Evening,5,5,Procrastination,Smartphone,7,3,At home,Wi-Fi,25-44 (Young Adults),Developing
+573,574,48,Female,Japan,YouTube,12,2,Gaming,9,18,Night,1,9,Boredom,Smartphone,3,7,At home,Wi-Fi,45-54 (Older Adults),Developed
+574,575,36,Female,India,TikTok,77,11,Jokes/Memes,12,40,Afternoon,4,6,Boredom,Smartphone,6,4,At school,Mobile Data,35-44 (Mid Adults),Developing
+575,576,64,Male,Germany,TikTok,34,7,Pranks,23,43,Night,1,9,Entertainment,Tablet,3,7,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+576,577,33,Female,India,Facebook,188,6,Life Hacks,8,15,Afternoon,4,6,Habit,Smartphone,6,4,At school,Wi-Fi,25-44 (Young Adults),Developing
+577,578,22,Male,Philippines,YouTube,150,10,Pranks,21,48,Evening,5,5,Habit,Smartphone,7,3,At school,Mobile Data,18-24 (Youth),Developing
+578,579,52,Other,Mexico,YouTube,240,5,Vlogs,5,49,Evening,5,5,Habit,Smartphone,7,3,At work,Mobile Data,45-54 (Older Adults),Developing
+579,580,29,Male,Japan,TikTok,172,11,Pranks,29,17,Evening,5,5,Entertainment,Smartphone,7,3,At work,Mobile Data,25-44 (Young Adults),Developed
+580,581,42,Male,Brazil,Instagram,139,1,Vlogs,11,44,Evening,5,5,Boredom,Smartphone,7,3,At home,Mobile Data,35-44 (Mid Adults),Developing
+581,582,38,Male,India,Facebook,255,2,ASMR,23,10,Night,1,9,Procrastination,Smartphone,3,7,At school,Wi-Fi,35-44 (Mid Adults),Developing
+582,583,53,Other,Japan,Facebook,181,1,Vlogs,11,20,Morning,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,45-54 (Older Adults),Developed
+583,584,40,Female,India,TikTok,73,19,Life Hacks,13,6,Night,1,9,Habit,Tablet,3,7,At school,Wi-Fi,35-44 (Mid Adults),Developing
+584,585,33,Male,United States,YouTube,40,2,ASMR,14,8,Evening,5,5,Habit,Tablet,7,3,At home,Mobile Data,25-44 (Young Adults),Developed
+585,586,56,Female,Japan,TikTok,56,4,Vlogs,28,45,Morning,7,3,Entertainment,Smartphone,9,1,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+586,587,62,Male,Vietnam,TikTok,139,12,Gaming,8,34,Night,1,9,Habit,Smartphone,3,7,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+587,588,59,Female,India,TikTok,119,18,Gaming,25,32,Evening,5,5,Entertainment,Tablet,7,3,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+588,589,56,Male,Brazil,TikTok,78,1,Comedy,18,42,Evening,5,5,Habit,Smartphone,7,3,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+589,590,31,Male,Vietnam,Instagram,67,1,Jokes/Memes,19,4,Night,1,9,Boredom,Tablet,3,7,At home,Mobile Data,25-44 (Young Adults),Developing
+590,591,48,Female,India,Instagram,115,14,Vlogs,12,44,Night,1,9,Boredom,Tablet,3,7,At home,Wi-Fi,45-54 (Older Adults),Developing
+591,592,22,Male,United States,YouTube,265,4,Life Hacks,12,39,Evening,5,5,Habit,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developed
+592,593,52,Other,United States,TikTok,180,5,ASMR,18,20,Night,1,9,Entertainment,Tablet,3,7,At work,Mobile Data,45-54 (Older Adults),Developed
+593,594,40,Male,Brazil,Instagram,171,11,Gaming,10,24,Afternoon,4,6,Boredom,Tablet,6,4,At home,Mobile Data,35-44 (Mid Adults),Developing
+594,595,46,Male,Mexico,YouTube,295,13,Gaming,7,24,Evening,5,5,Entertainment,Tablet,7,3,At work,Mobile Data,45-54 (Older Adults),Developing
+595,596,60,Other,India,TikTok,80,16,Entertainment,28,26,Afternoon,4,6,Entertainment,Smartphone,6,4,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+596,597,28,Male,United States,Facebook,264,13,Jokes/Memes,18,25,Night,1,9,Habit,Tablet,3,7,At school,Wi-Fi,25-44 (Young Adults),Developed
+597,598,35,Male,Brazil,Instagram,64,2,Entertainment,12,36,Night,1,9,Boredom,Tablet,3,7,At work,Wi-Fi,35-44 (Mid Adults),Developing
+598,599,64,Male,Vietnam,YouTube,12,16,Comedy,14,7,Afternoon,4,6,Boredom,Tablet,6,4,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+599,600,29,Female,United States,Facebook,35,6,Pranks,15,10,Night,1,9,Entertainment,Computer,3,7,At school,Wi-Fi,25-44 (Young Adults),Developed
+600,601,26,Female,Philippines,TikTok,135,14,Jokes/Memes,16,47,Morning,7,3,Entertainment,Tablet,9,1,At home,Mobile Data,25-44 (Young Adults),Developing
+601,602,27,Male,United States,TikTok,62,1,Life Hacks,2,12,Morning,7,3,Boredom,Computer,9,1,At home,Mobile Data,25-44 (Young Adults),Developed
+602,603,61,Male,United States,TikTok,207,17,Life Hacks,18,1,Night,1,9,Habit,Smartphone,3,7,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+603,604,34,Male,Vietnam,Instagram,197,11,Vlogs,12,25,Evening,5,5,Procrastination,Tablet,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+604,605,55,Female,Indonesia,YouTube,195,19,Trends,16,16,Night,1,9,Entertainment,Smartphone,3,7,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+605,606,24,Male,Brazil,Facebook,213,3,Gaming,13,5,Evening,5,5,Habit,Smartphone,7,3,At home,Mobile Data,18-24 (Youth),Developing
+606,607,63,Female,India,YouTube,20,11,Entertainment,20,19,Evening,5,5,Entertainment,Smartphone,7,3,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+607,608,30,Female,United States,Instagram,155,5,ASMR,17,4,Morning,7,3,Entertainment,Smartphone,9,1,At work,Wi-Fi,25-44 (Young Adults),Developed
+608,609,57,Other,United States,YouTube,94,17,Life Hacks,18,6,Night,1,9,Entertainment,Smartphone,3,7,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+609,610,59,Male,Philippines,Instagram,109,7,Jokes/Memes,3,26,Night,1,9,Boredom,Smartphone,3,7,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+610,611,26,Male,India,TikTok,113,10,Life Hacks,23,49,Evening,5,5,Boredom,Smartphone,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+611,612,44,Male,Brazil,Facebook,55,11,Life Hacks,10,39,Afternoon,4,6,Habit,Tablet,6,4,At work,Mobile Data,35-44 (Mid Adults),Developing
+612,613,19,Other,Germany,TikTok,53,3,Pranks,1,39,Morning,7,3,Entertainment,Smartphone,9,1,At school,Wi-Fi,18-24 (Youth),Developed
+613,614,22,Male,Vietnam,YouTube,287,10,Trends,6,9,Afternoon,4,6,Entertainment,Smartphone,6,4,At work,Wi-Fi,18-24 (Youth),Developing
+614,615,46,Male,Indonesia,TikTok,190,10,Trends,3,45,Afternoon,4,6,Entertainment,Smartphone,6,4,At home,Mobile Data,45-54 (Older Adults),Developing
+615,616,54,Male,Brazil,Facebook,196,14,Gaming,19,14,Evening,5,5,Procrastination,Smartphone,7,3,At home,Wi-Fi,45-54 (Older Adults),Developing
+616,617,55,Male,United States,TikTok,123,12,Entertainment,4,48,Night,1,9,Procrastination,Smartphone,3,7,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+617,618,36,Female,Philippines,Facebook,264,15,Vlogs,29,9,Evening,5,5,Habit,Smartphone,7,3,At work,Mobile Data,35-44 (Mid Adults),Developing
+618,619,25,Other,Indonesia,Facebook,39,10,Entertainment,20,15,Evening,5,5,Habit,Smartphone,7,3,At home,Wi-Fi,25-44 (Young Adults),Developing
+619,620,62,Male,United States,TikTok,273,10,Comedy,23,37,Night,1,9,Entertainment,Tablet,3,7,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+620,621,18,Female,Brazil,Instagram,107,19,Vlogs,3,20,Evening,5,5,Entertainment,Computer,7,3,At work,Wi-Fi,18-24 (Youth),Developing
+621,622,39,Male,India,YouTube,124,1,Gaming,8,8,Night,1,9,Habit,Smartphone,3,7,At home,Mobile Data,35-44 (Mid Adults),Developing
+622,623,34,Male,Germany,Instagram,285,10,Vlogs,8,32,Evening,5,5,Entertainment,Smartphone,7,3,At school,Mobile Data,25-44 (Young Adults),Developed
+623,624,24,Male,United States,Instagram,290,2,Jokes/Memes,27,47,Afternoon,4,6,Boredom,Smartphone,6,4,At home,Mobile Data,18-24 (Youth),Developed
+624,625,42,Male,Indonesia,TikTok,284,17,Gaming,29,21,Night,1,9,Boredom,Tablet,3,7,At home,Mobile Data,35-44 (Mid Adults),Developing
+625,626,62,Female,Indonesia,YouTube,270,7,Trends,7,41,Night,1,9,Boredom,Tablet,3,7,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+626,627,21,Male,United States,YouTube,216,7,Trends,2,19,Evening,5,5,Procrastination,Tablet,7,3,At work,Mobile Data,18-24 (Youth),Developed
+627,628,53,Male,Pakistan,Instagram,220,9,Vlogs,21,29,Afternoon,4,6,Boredom,Smartphone,6,4,At home,Mobile Data,45-54 (Older Adults),Developing
+628,629,23,Male,Brazil,TikTok,224,2,ASMR,6,31,Evening,5,5,Entertainment,Tablet,7,3,At home,Wi-Fi,18-24 (Youth),Developing
+629,630,48,Male,Pakistan,YouTube,49,14,Pranks,28,6,Afternoon,4,6,Habit,Smartphone,6,4,At home,Wi-Fi,45-54 (Older Adults),Developing
+630,631,36,Female,Mexico,Instagram,35,17,Entertainment,16,4,Morning,7,3,Boredom,Computer,9,1,At home,Mobile Data,35-44 (Mid Adults),Developing
+631,632,61,Female,Brazil,YouTube,36,1,Jokes/Memes,10,43,Evening,5,5,Boredom,Smartphone,7,3,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+632,633,56,Female,United States,TikTok,199,9,Entertainment,4,29,Morning,7,3,Entertainment,Smartphone,9,1,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+633,634,44,Male,India,TikTok,92,19,Gaming,13,42,Afternoon,4,6,Habit,Smartphone,6,4,At school,Mobile Data,35-44 (Mid Adults),Developing
+634,635,27,Male,Philippines,TikTok,179,4,Jokes/Memes,10,3,Afternoon,4,6,Entertainment,Smartphone,6,4,At home,Mobile Data,25-44 (Young Adults),Developing
+635,636,43,Male,United States,YouTube,176,8,Trends,21,1,Evening,5,5,Habit,Smartphone,7,3,At school,Mobile Data,35-44 (Mid Adults),Developed
+636,637,36,Male,Pakistan,Facebook,197,13,ASMR,14,44,Evening,5,5,Habit,Tablet,7,3,At school,Mobile Data,35-44 (Mid Adults),Developing
+637,638,56,Male,India,YouTube,178,4,ASMR,9,15,Evening,5,5,Boredom,Smartphone,7,3,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+638,639,20,Female,Philippines,Facebook,298,9,Life Hacks,11,47,Night,1,9,Habit,Smartphone,3,7,At work,Mobile Data,18-24 (Youth),Developing
+639,640,62,Female,United States,TikTok,238,9,Trends,23,21,Night,1,9,Habit,Smartphone,3,7,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+640,641,30,Other,United States,Instagram,106,18,ASMR,18,46,Afternoon,4,6,Habit,Tablet,6,4,At school,Mobile Data,25-44 (Young Adults),Developed
+641,642,45,Male,India,Facebook,25,12,Jokes/Memes,11,31,Afternoon,4,6,Procrastination,Tablet,6,4,At work,Mobile Data,45-54 (Older Adults),Developing
+642,643,37,Male,United States,TikTok,288,10,Gaming,17,7,Evening,5,5,Habit,Smartphone,7,3,At school,Wi-Fi,35-44 (Mid Adults),Developed
+643,644,45,Female,Philippines,TikTok,144,11,Trends,2,17,Evening,5,5,Habit,Computer,7,3,At home,Mobile Data,45-54 (Older Adults),Developing
+644,645,25,Female,United States,Facebook,35,7,Jokes/Memes,3,19,Evening,5,5,Boredom,Smartphone,7,3,At home,Wi-Fi,25-44 (Young Adults),Developed
+645,646,58,Other,India,Instagram,21,9,ASMR,11,39,Evening,5,5,Procrastination,Tablet,7,3,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+646,647,56,Male,India,TikTok,81,6,Jokes/Memes,18,3,Afternoon,4,6,Entertainment,Tablet,6,4,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+647,648,18,Female,India,Facebook,142,19,Entertainment,27,30,Night,1,9,Boredom,Tablet,3,7,At home,Mobile Data,18-24 (Youth),Developing
+648,649,20,Male,Vietnam,Instagram,115,16,ASMR,3,35,Evening,5,5,Boredom,Smartphone,7,3,At work,Mobile Data,18-24 (Youth),Developing
+649,650,30,Female,Germany,Instagram,229,15,Pranks,26,29,Night,1,9,Habit,Tablet,3,7,At school,Mobile Data,25-44 (Young Adults),Developed
+650,651,45,Male,United States,TikTok,186,7,Life Hacks,15,14,Night,1,9,Entertainment,Tablet,3,7,Commuting,Mobile Data,45-54 (Older Adults),Developed
+651,652,42,Male,United States,YouTube,291,16,Vlogs,11,35,Afternoon,4,6,Entertainment,Tablet,6,4,At work,Mobile Data,35-44 (Mid Adults),Developed
+652,653,50,Male,Brazil,YouTube,142,5,Vlogs,11,28,Evening,5,5,Habit,Smartphone,7,3,At home,Mobile Data,45-54 (Older Adults),Developing
+653,654,55,Female,United States,TikTok,31,16,Jokes/Memes,28,30,Night,1,9,Boredom,Tablet,3,7,Commuting,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+654,655,23,Male,Pakistan,Instagram,278,1,Vlogs,28,26,Night,1,9,Habit,Smartphone,3,7,At home,Mobile Data,18-24 (Youth),Developing
+655,656,61,Other,United States,TikTok,170,19,Pranks,25,7,Night,1,9,Boredom,Tablet,3,7,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+656,657,62,Male,India,Facebook,116,5,Life Hacks,20,39,Afternoon,4,6,Procrastination,Computer,6,4,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+657,658,49,Male,United States,YouTube,288,7,Gaming,28,31,Night,1,9,Boredom,Smartphone,3,7,At home,Mobile Data,45-54 (Older Adults),Developed
+658,659,62,Female,Vietnam,Facebook,244,19,Pranks,25,5,Evening,5,5,Procrastination,Tablet,7,3,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+659,660,64,Male,India,TikTok,27,5,Gaming,11,35,Evening,5,5,Procrastination,Smartphone,7,3,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+660,661,38,Female,Mexico,TikTok,251,17,Vlogs,19,47,Night,1,9,Habit,Tablet,3,7,At work,Wi-Fi,35-44 (Mid Adults),Developing
+661,662,33,Male,India,Instagram,126,8,Life Hacks,28,14,Afternoon,4,6,Habit,Tablet,6,4,At home,Mobile Data,25-44 (Young Adults),Developing
+662,663,38,Male,Japan,Instagram,295,1,Trends,1,36,Night,1,9,Habit,Computer,3,7,At school,Mobile Data,35-44 (Mid Adults),Developed
+663,664,28,Male,Philippines,Instagram,291,2,Life Hacks,27,27,Evening,5,5,Procrastination,Tablet,7,3,Commuting,Mobile Data,25-44 (Young Adults),Developing
+664,665,54,Male,United States,Facebook,153,15,Jokes/Memes,5,24,Afternoon,4,6,Procrastination,Computer,6,4,At work,Mobile Data,45-54 (Older Adults),Developed
+665,666,53,Other,Philippines,Instagram,214,18,ASMR,10,40,Evening,5,5,Boredom,Computer,7,3,At school,Mobile Data,45-54 (Older Adults),Developing
+666,667,52,Male,Indonesia,TikTok,48,11,Life Hacks,10,29,Afternoon,4,6,Entertainment,Tablet,6,4,At work,Wi-Fi,45-54 (Older Adults),Developing
+667,668,36,Female,Pakistan,Instagram,163,10,ASMR,14,45,Afternoon,4,6,Habit,Tablet,6,4,At work,Mobile Data,35-44 (Mid Adults),Developing
+668,669,37,Male,United States,YouTube,185,4,Life Hacks,2,22,Night,1,9,Entertainment,Tablet,3,7,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+669,670,35,Male,Pakistan,Instagram,250,5,Jokes/Memes,4,8,Morning,7,3,Entertainment,Tablet,9,1,At home,Mobile Data,35-44 (Mid Adults),Developing
+670,671,64,Male,Philippines,Facebook,143,4,Pranks,2,15,Night,1,9,Entertainment,Tablet,3,7,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+671,672,58,Male,India,YouTube,55,13,Vlogs,18,49,Night,1,9,Habit,Smartphone,3,7,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+672,673,31,Male,Japan,YouTube,59,13,Entertainment,13,5,Morning,7,3,Entertainment,Smartphone,9,1,At school,Mobile Data,25-44 (Young Adults),Developed
+673,674,32,Male,India,YouTube,175,18,Entertainment,19,4,Evening,5,5,Habit,Computer,7,3,At work,Mobile Data,25-44 (Young Adults),Developing
+674,675,48,Male,Mexico,Facebook,115,2,Gaming,5,11,Night,1,9,Habit,Tablet,3,7,At work,Mobile Data,45-54 (Older Adults),Developing
+675,676,18,Male,Japan,TikTok,225,16,Pranks,20,18,Morning,7,3,Procrastination,Smartphone,9,1,At work,Mobile Data,18-24 (Youth),Developed
+676,677,20,Male,Japan,Instagram,155,1,Life Hacks,2,42,Night,1,9,Entertainment,Tablet,3,7,At school,Mobile Data,18-24 (Youth),Developed
+677,678,33,Female,India,YouTube,81,19,Jokes/Memes,11,49,Night,1,9,Boredom,Tablet,3,7,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+678,679,40,Female,India,YouTube,282,9,Pranks,26,30,Morning,7,3,Boredom,Smartphone,9,1,At school,Mobile Data,35-44 (Mid Adults),Developing
+679,680,28,Male,Vietnam,YouTube,256,3,Vlogs,18,15,Afternoon,4,6,Entertainment,Smartphone,6,4,At work,Mobile Data,25-44 (Young Adults),Developing
+680,681,29,Other,Philippines,TikTok,195,7,Life Hacks,6,6,Night,1,9,Habit,Smartphone,3,7,At home,Mobile Data,25-44 (Young Adults),Developing
+681,682,27,Female,India,TikTok,79,10,Life Hacks,23,16,Evening,5,5,Habit,Computer,7,3,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+682,683,49,Male,Pakistan,Facebook,159,1,Entertainment,28,47,Afternoon,4,6,Habit,Smartphone,6,4,At school,Mobile Data,45-54 (Older Adults),Developing
+683,684,33,Male,India,TikTok,255,10,ASMR,10,40,Morning,7,3,Boredom,Smartphone,9,1,At work,Wi-Fi,25-44 (Young Adults),Developing
+684,685,25,Male,Pakistan,Instagram,271,9,Entertainment,22,9,Evening,5,5,Habit,Smartphone,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+685,686,55,Female,Vietnam,Facebook,35,15,Pranks,23,43,Night,1,9,Boredom,Smartphone,3,7,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+686,687,29,Male,Mexico,Facebook,149,15,Jokes/Memes,17,34,Evening,5,5,Habit,Tablet,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+687,688,41,Male,United States,Instagram,108,3,Gaming,22,27,Night,1,9,Procrastination,Computer,3,7,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+688,689,45,Female,Vietnam,Instagram,287,5,Pranks,11,13,Evening,5,5,Procrastination,Smartphone,7,3,At home,Wi-Fi,45-54 (Older Adults),Developing
+689,690,25,Female,Germany,Instagram,60,9,ASMR,19,36,Evening,5,5,Boredom,Smartphone,7,3,At home,Mobile Data,25-44 (Young Adults),Developed
+690,691,45,Male,Brazil,Facebook,160,9,Life Hacks,17,27,Night,1,9,Procrastination,Smartphone,3,7,At home,Wi-Fi,45-54 (Older Adults),Developing
+691,692,53,Male,India,Facebook,113,7,Pranks,24,9,Morning,7,3,Boredom,Smartphone,9,1,At work,Wi-Fi,45-54 (Older Adults),Developing
+692,693,43,Other,Mexico,Facebook,98,12,Vlogs,4,5,Night,1,9,Boredom,Computer,3,7,At home,Mobile Data,35-44 (Mid Adults),Developing
+693,694,25,Female,Germany,Instagram,150,9,Jokes/Memes,26,22,Afternoon,4,6,Entertainment,Smartphone,6,4,At home,Mobile Data,25-44 (Young Adults),Developed
+694,695,45,Female,Indonesia,Instagram,222,6,Life Hacks,24,31,Evening,5,5,Boredom,Computer,7,3,At home,Wi-Fi,45-54 (Older Adults),Developing
+695,696,45,Female,Mexico,YouTube,242,2,Life Hacks,26,3,Night,1,9,Entertainment,Smartphone,3,7,At work,Mobile Data,45-54 (Older Adults),Developing
+696,697,54,Other,India,TikTok,192,9,Gaming,14,30,Evening,5,5,Entertainment,Tablet,7,3,At home,Wi-Fi,45-54 (Older Adults),Developing
+697,698,58,Male,India,YouTube,260,17,Vlogs,27,21,Afternoon,4,6,Entertainment,Tablet,6,4,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+698,699,53,Male,Vietnam,Instagram,18,1,Life Hacks,20,35,Evening,5,5,Boredom,Computer,7,3,Commuting,Mobile Data,45-54 (Older Adults),Developing
+699,700,44,Female,Brazil,Facebook,88,19,Gaming,4,6,Evening,5,5,Boredom,Tablet,7,3,At school,Wi-Fi,35-44 (Mid Adults),Developing
+700,701,34,Female,Mexico,Instagram,61,6,Vlogs,28,28,Afternoon,4,6,Procrastination,Computer,6,4,At home,Wi-Fi,25-44 (Young Adults),Developing
+701,702,26,Male,Philippines,TikTok,278,5,Life Hacks,14,32,Night,1,9,Boredom,Smartphone,3,7,At home,Wi-Fi,25-44 (Young Adults),Developing
+702,703,50,Other,India,YouTube,235,2,Jokes/Memes,26,42,Evening,5,5,Entertainment,Computer,7,3,At home,Mobile Data,45-54 (Older Adults),Developing
+703,704,37,Male,United States,YouTube,60,9,Trends,4,37,Night,1,9,Boredom,Computer,3,7,At school,Wi-Fi,35-44 (Mid Adults),Developed
+704,705,30,Male,Vietnam,Facebook,195,14,Jokes/Memes,6,25,Night,1,9,Habit,Smartphone,3,7,At home,Wi-Fi,25-44 (Young Adults),Developing
+705,706,45,Male,India,YouTube,43,4,Vlogs,9,32,Evening,5,5,Habit,Tablet,7,3,At home,Mobile Data,45-54 (Older Adults),Developing
+706,707,46,Male,Brazil,YouTube,239,4,Trends,21,35,Evening,5,5,Habit,Smartphone,7,3,At school,Mobile Data,45-54 (Older Adults),Developing
+707,708,30,Female,United States,Instagram,140,15,Entertainment,12,22,Evening,5,5,Habit,Smartphone,7,3,At home,Mobile Data,25-44 (Young Adults),Developed
+708,709,63,Female,Mexico,YouTube,129,8,Pranks,29,24,Night,1,9,Procrastination,Tablet,3,7,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+709,710,52,Male,Philippines,YouTube,256,4,Life Hacks,26,39,Night,1,9,Boredom,Smartphone,3,7,At home,Wi-Fi,45-54 (Older Adults),Developing
+710,711,23,Male,Mexico,YouTube,201,16,Entertainment,8,30,Afternoon,4,6,Procrastination,Smartphone,6,4,At school,Wi-Fi,18-24 (Youth),Developing
+711,712,35,Other,Japan,Facebook,219,4,Life Hacks,24,32,Evening,5,5,Entertainment,Tablet,7,3,At home,Mobile Data,35-44 (Mid Adults),Developed
+712,713,22,Male,Brazil,Facebook,112,16,Entertainment,4,31,Evening,5,5,Habit,Smartphone,7,3,At work,Mobile Data,18-24 (Youth),Developing
+713,714,64,Other,Germany,Instagram,142,12,Vlogs,27,23,Night,1,9,Entertainment,Smartphone,3,7,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+714,715,42,Female,India,YouTube,148,16,Entertainment,26,40,Morning,7,3,Boredom,Computer,9,1,At school,Mobile Data,35-44 (Mid Adults),Developing
+715,716,19,Male,Philippines,Facebook,130,19,ASMR,25,33,Evening,5,5,Entertainment,Tablet,7,3,At home,Mobile Data,18-24 (Youth),Developing
+716,717,27,Female,India,Facebook,103,8,Jokes/Memes,25,25,Night,1,9,Habit,Tablet,3,7,At school,Mobile Data,25-44 (Young Adults),Developing
+717,718,47,Female,Mexico,Instagram,138,6,Vlogs,5,36,Morning,7,3,Procrastination,Tablet,9,1,At home,Mobile Data,45-54 (Older Adults),Developing
+718,719,62,Female,India,TikTok,100,10,Vlogs,6,24,Evening,5,5,Boredom,Smartphone,7,3,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+719,720,22,Other,Mexico,YouTube,101,5,Life Hacks,5,31,Afternoon,4,6,Entertainment,Smartphone,6,4,At home,Mobile Data,18-24 (Youth),Developing
+720,721,50,Male,India,Facebook,72,18,Trends,19,39,Evening,5,5,Entertainment,Tablet,7,3,Commuting,Wi-Fi,45-54 (Older Adults),Developing
+721,722,18,Male,United States,Instagram,38,10,Vlogs,27,46,Afternoon,4,6,Boredom,Smartphone,6,4,At work,Mobile Data,18-24 (Youth),Developed
+722,723,35,Other,United States,Instagram,219,10,Pranks,8,13,Afternoon,4,6,Boredom,Smartphone,6,4,At home,Mobile Data,35-44 (Mid Adults),Developed
+723,724,49,Female,United States,Instagram,21,7,Gaming,9,10,Afternoon,4,6,Boredom,Tablet,6,4,At school,Wi-Fi,45-54 (Older Adults),Developed
+724,725,64,Female,Mexico,Facebook,139,18,Life Hacks,15,23,Evening,5,5,Procrastination,Tablet,7,3,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+725,726,28,Female,Pakistan,YouTube,182,1,ASMR,4,18,Evening,5,5,Entertainment,Tablet,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+726,727,38,Female,United States,TikTok,217,7,Trends,25,32,Night,1,9,Habit,Computer,3,7,At home,Wi-Fi,35-44 (Mid Adults),Developed
+727,728,43,Female,Germany,YouTube,33,1,Pranks,9,33,Afternoon,4,6,Habit,Tablet,6,4,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+728,729,42,Male,United States,Instagram,108,15,ASMR,7,36,Afternoon,4,6,Habit,Computer,6,4,At home,Mobile Data,35-44 (Mid Adults),Developed
+729,730,39,Male,India,Instagram,148,4,Trends,8,28,Afternoon,4,6,Boredom,Smartphone,6,4,At work,Mobile Data,35-44 (Mid Adults),Developing
+730,731,44,Female,Brazil,TikTok,183,10,Vlogs,15,16,Evening,5,5,Boredom,Smartphone,7,3,Commuting,Wi-Fi,35-44 (Mid Adults),Developing
+731,732,30,Other,India,YouTube,38,9,Pranks,19,16,Evening,5,5,Entertainment,Tablet,7,3,At school,Mobile Data,25-44 (Young Adults),Developing
+732,733,50,Male,Vietnam,Instagram,152,2,Comedy,15,18,Morning,7,3,Habit,Smartphone,9,1,At home,Mobile Data,45-54 (Older Adults),Developing
+733,734,51,Female,India,Instagram,51,14,Trends,5,8,Night,1,9,Entertainment,Smartphone,3,7,At home,Mobile Data,45-54 (Older Adults),Developing
+734,735,58,Other,Germany,YouTube,217,16,Gaming,19,42,Evening,5,5,Boredom,Smartphone,7,3,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+735,736,52,Male,Pakistan,Instagram,201,1,Entertainment,7,16,Afternoon,4,6,Entertainment,Smartphone,6,4,At work,Mobile Data,45-54 (Older Adults),Developing
+736,737,18,Other,United States,YouTube,169,2,Life Hacks,6,11,Evening,5,5,Boredom,Tablet,7,3,At home,Mobile Data,18-24 (Youth),Developed
+737,738,38,Female,United States,Instagram,73,7,Gaming,27,6,Afternoon,3,7,Boredom,Computer,5,5,At home,Mobile Data,35-44 (Mid Adults),Developed
+738,739,23,Male,Indonesia,YouTube,252,10,Gaming,19,1,Night,9,1,Habit,Tablet,10,0,At school,Mobile Data,18-24 (Youth),Developing
+739,740,45,Female,Mexico,TikTok,267,1,ASMR,25,12,Evening,3,7,Habit,Smartphone,5,5,Commuting,Mobile Data,45-54 (Older Adults),Developing
+740,741,34,Female,Pakistan,Instagram,161,13,ASMR,28,38,Evening,9,1,Entertainment,Smartphone,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+741,742,22,Other,Indonesia,TikTok,224,1,Entertainment,17,28,Afternoon,3,7,Habit,Tablet,5,5,At home,Mobile Data,18-24 (Youth),Developing
+742,743,48,Male,Vietnam,Instagram,175,5,Life Hacks,10,45,Evening,3,7,Habit,Tablet,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+743,744,22,Female,India,Instagram,40,16,Trends,19,17,Afternoon,8,2,Habit,Smartphone,10,0,At home,Wi-Fi,18-24 (Youth),Developing
+744,745,55,Female,Mexico,Facebook,241,15,Life Hacks,11,1,Afternoon,6,4,Habit,Computer,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+745,746,20,Male,Mexico,YouTube,291,17,Pranks,15,32,Evening,8,2,Boredom,Computer,10,0,At work,Wi-Fi,18-24 (Youth),Developing
+746,747,40,Male,Japan,TikTok,38,16,Entertainment,10,8,Evening,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,35-44 (Mid Adults),Developed
+747,748,54,Female,Japan,TikTok,204,13,Pranks,11,40,Night,8,2,Boredom,Smartphone,10,0,At work,Wi-Fi,45-54 (Older Adults),Developed
+748,749,54,Male,India,TikTok,265,11,Pranks,23,43,Morning,8,2,Procrastination,Smartphone,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+749,750,27,Female,India,YouTube,290,17,Pranks,3,46,Morning,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,25-44 (Young Adults),Developing
+750,751,27,Male,India,Facebook,96,17,Entertainment,3,24,Evening,6,4,Boredom,Smartphone,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+751,752,36,Male,India,TikTok,158,2,Entertainment,18,10,Afternoon,8,2,Boredom,Computer,10,0,At work,Mobile Data,35-44 (Mid Adults),Developing
+752,753,34,Male,United States,YouTube,258,13,Gaming,25,47,Afternoon,8,2,Entertainment,Smartphone,10,0,At home,Wi-Fi,25-44 (Young Adults),Developed
+753,754,38,Other,United States,Instagram,292,14,Trends,11,39,Night,9,1,Boredom,Tablet,10,0,At school,Mobile Data,35-44 (Mid Adults),Developed
+754,755,31,Male,Japan,TikTok,207,11,Vlogs,20,39,Morning,6,4,Entertainment,Smartphone,8,2,At work,Wi-Fi,25-44 (Young Adults),Developed
+755,756,26,Male,Japan,TikTok,53,10,Vlogs,26,10,Morning,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,25-44 (Young Adults),Developed
+756,757,63,Female,Japan,Facebook,37,3,Vlogs,29,36,Afternoon,3,7,Procrastination,Computer,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+757,758,18,Female,Pakistan,TikTok,26,17,Gaming,22,25,Evening,8,2,Boredom,Smartphone,10,0,At home,Mobile Data,18-24 (Youth),Developing
+758,759,62,Female,Brazil,TikTok,136,15,Vlogs,18,10,Morning,8,2,Entertainment,Smartphone,10,0,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+759,760,30,Other,India,Instagram,177,9,Gaming,25,19,Evening,6,4,Boredom,Smartphone,8,2,At school,Mobile Data,25-44 (Young Adults),Developing
+760,761,21,Female,Pakistan,YouTube,253,10,Comedy,15,46,Night,8,2,Habit,Tablet,10,0,At home,Wi-Fi,18-24 (Youth),Developing
+761,762,18,Male,United States,YouTube,85,8,Entertainment,7,45,Evening,3,7,Procrastination,Computer,5,5,At home,Wi-Fi,18-24 (Youth),Developed
+762,763,57,Female,United States,Facebook,240,13,Vlogs,10,15,Evening,8,2,Boredom,Smartphone,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+763,764,49,Male,Vietnam,Instagram,213,18,Life Hacks,21,16,Night,8,2,Entertainment,Tablet,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+764,765,51,Male,Germany,YouTube,257,5,Jokes/Memes,23,2,Afternoon,9,1,Procrastination,Tablet,10,0,At school,Mobile Data,45-54 (Older Adults),Developed
+765,766,45,Male,Mexico,Instagram,223,6,Life Hacks,20,29,Night,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developing
+766,767,48,Male,India,YouTube,224,17,Jokes/Memes,29,4,Night,3,7,Habit,Computer,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+767,768,25,Male,Indonesia,Instagram,167,11,Pranks,10,29,Afternoon,8,2,Boredom,Computer,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+768,769,56,Male,Philippines,Facebook,78,16,ASMR,13,31,Afternoon,8,2,Habit,Smartphone,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+769,770,43,Male,United States,TikTok,94,9,Jokes/Memes,15,17,Night,3,7,Boredom,Smartphone,5,5,Commuting,Mobile Data,35-44 (Mid Adults),Developed
+770,771,51,Female,Vietnam,Facebook,276,2,Trends,23,10,Morning,3,7,Entertainment,Smartphone,5,5,Commuting,Mobile Data,45-54 (Older Adults),Developing
+771,772,20,Female,India,YouTube,78,5,ASMR,18,27,Night,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developing
+772,773,29,Other,Germany,Facebook,108,1,Vlogs,23,41,Evening,3,7,Habit,Smartphone,5,5,At home,Mobile Data,25-44 (Young Adults),Developed
+773,774,18,Female,Pakistan,TikTok,225,4,Vlogs,4,15,Afternoon,6,4,Habit,Computer,8,2,At home,Mobile Data,18-24 (Youth),Developing
+774,775,61,Other,India,Facebook,170,4,Jokes/Memes,20,44,Afternoon,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+775,776,22,Male,Mexico,YouTube,103,3,Life Hacks,17,31,Evening,8,2,Entertainment,Smartphone,10,0,At work,Mobile Data,18-24 (Youth),Developing
+776,777,47,Male,India,YouTube,183,9,Jokes/Memes,28,21,Night,9,1,Habit,Tablet,10,0,At school,Wi-Fi,45-54 (Older Adults),Developing
+777,778,47,Male,Brazil,Facebook,174,12,Gaming,3,41,Night,3,7,Procrastination,Smartphone,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+778,779,34,Male,Japan,TikTok,124,10,Jokes/Memes,21,46,Night,8,2,Entertainment,Tablet,10,0,At work,Wi-Fi,25-44 (Young Adults),Developed
+779,780,64,Other,Japan,Facebook,229,2,Pranks,21,45,Evening,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+780,781,40,Female,Mexico,TikTok,40,11,Jokes/Memes,2,26,Afternoon,6,4,Habit,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developing
+781,782,32,Female,Germany,Instagram,20,10,Gaming,4,38,Afternoon,3,7,Entertainment,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developed
+782,783,54,Male,Vietnam,TikTok,139,6,Pranks,1,36,Night,8,2,Habit,Smartphone,10,0,At home,Wi-Fi,45-54 (Older Adults),Developing
+783,784,38,Male,Pakistan,Instagram,114,18,Life Hacks,15,17,Morning,6,4,Habit,Smartphone,8,2,At school,Mobile Data,35-44 (Mid Adults),Developing
+784,785,31,Male,Japan,Facebook,36,2,Jokes/Memes,25,3,Evening,6,4,Habit,Smartphone,8,2,At work,Wi-Fi,25-44 (Young Adults),Developed
+785,786,19,Male,India,TikTok,236,2,Pranks,1,14,Evening,8,2,Entertainment,Tablet,10,0,At home,Wi-Fi,18-24 (Youth),Developing
+786,787,28,Female,Indonesia,Instagram,11,10,Gaming,6,49,Evening,8,2,Entertainment,Tablet,10,0,At work,Wi-Fi,25-44 (Young Adults),Developing
+787,788,56,Other,United States,Instagram,110,16,Trends,7,13,Night,6,4,Boredom,Smartphone,8,2,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+788,789,55,Male,United States,Instagram,30,12,Vlogs,19,41,Afternoon,8,2,Entertainment,Smartphone,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+789,790,51,Male,United States,YouTube,67,1,Life Hacks,12,27,Evening,3,7,Boredom,Smartphone,5,5,At work,Mobile Data,45-54 (Older Adults),Developed
+790,791,55,Male,Vietnam,Facebook,189,8,Jokes/Memes,1,1,Night,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+791,792,51,Male,India,Instagram,29,16,Pranks,7,17,Morning,6,4,Habit,Smartphone,8,2,At school,Wi-Fi,45-54 (Older Adults),Developing
+792,793,35,Male,India,TikTok,264,18,Jokes/Memes,19,48,Evening,3,7,Habit,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+793,794,47,Male,Mexico,Instagram,47,13,Jokes/Memes,13,34,Night,3,7,Entertainment,Smartphone,5,5,Commuting,Mobile Data,45-54 (Older Adults),Developing
+794,795,32,Female,United States,YouTube,157,15,Comedy,26,14,Evening,6,4,Entertainment,Smartphone,8,2,At school,Wi-Fi,25-44 (Young Adults),Developed
+795,796,44,Female,India,Facebook,34,12,Life Hacks,12,17,Afternoon,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+796,797,51,Other,Pakistan,YouTube,130,8,Jokes/Memes,12,3,Night,8,2,Boredom,Smartphone,10,0,At home,Mobile Data,45-54 (Older Adults),Developing
+797,798,55,Female,Brazil,YouTube,35,10,Gaming,22,34,Night,8,2,Habit,Smartphone,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+798,799,50,Male,Brazil,YouTube,178,14,ASMR,13,40,Morning,6,4,Procrastination,Smartphone,8,2,At home,Mobile Data,45-54 (Older Adults),Developing
+799,800,41,Male,India,TikTok,234,5,Life Hacks,28,25,Evening,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+800,801,32,Male,Vietnam,Facebook,10,18,Jokes/Memes,14,2,Afternoon,8,2,Habit,Tablet,10,0,At work,Mobile Data,25-44 (Young Adults),Developing
+801,802,47,Male,Japan,Facebook,270,19,Life Hacks,22,34,Evening,8,2,Boredom,Smartphone,10,0,At work,Wi-Fi,45-54 (Older Adults),Developed
+802,803,59,Female,India,TikTok,22,15,Entertainment,12,26,Night,3,7,Entertainment,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+803,804,34,Female,United States,Facebook,57,6,Entertainment,20,31,Morning,8,2,Entertainment,Smartphone,10,0,Commuting,Mobile Data,25-44 (Young Adults),Developed
+804,805,22,Female,Philippines,YouTube,103,11,Life Hacks,12,9,Evening,6,4,Habit,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developing
+805,806,46,Male,United States,Facebook,270,11,ASMR,27,30,Evening,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developed
+806,807,21,Female,Mexico,TikTok,287,18,Jokes/Memes,6,20,Afternoon,8,2,Entertainment,Tablet,10,0,Commuting,Mobile Data,18-24 (Youth),Developing
+807,808,27,Other,Mexico,YouTube,214,18,Pranks,27,21,Evening,3,7,Procrastination,Computer,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+808,809,34,Male,Brazil,TikTok,194,10,Life Hacks,10,29,Evening,3,7,Procrastination,Computer,5,5,At work,Mobile Data,25-44 (Young Adults),Developing
+809,810,27,Male,Brazil,Instagram,184,2,Gaming,20,25,Evening,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+810,811,34,Male,Vietnam,YouTube,78,9,Pranks,29,38,Evening,3,7,Entertainment,Tablet,5,5,At work,Mobile Data,25-44 (Young Adults),Developing
+811,812,37,Male,Germany,YouTube,113,14,Pranks,24,44,Evening,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,35-44 (Mid Adults),Developed
+812,813,41,Male,Indonesia,Facebook,255,19,Gaming,9,25,Night,8,2,Entertainment,Smartphone,10,0,At school,Wi-Fi,35-44 (Mid Adults),Developing
+813,814,22,Other,Indonesia,YouTube,170,10,Gaming,2,9,Evening,3,7,Boredom,Computer,5,5,At work,Wi-Fi,18-24 (Youth),Developing
+814,815,51,Female,Germany,TikTok,209,4,Jokes/Memes,7,39,Evening,8,2,Habit,Smartphone,10,0,At home,Mobile Data,45-54 (Older Adults),Developed
+815,816,23,Female,Japan,Facebook,225,6,Jokes/Memes,9,44,Evening,6,4,Habit,Smartphone,8,2,At work,Mobile Data,18-24 (Youth),Developed
+816,817,19,Male,Indonesia,Instagram,221,14,Vlogs,25,26,Night,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,18-24 (Youth),Developing
+817,818,30,Male,Vietnam,TikTok,25,4,Jokes/Memes,12,37,Afternoon,6,4,Entertainment,Smartphone,8,2,At school,Mobile Data,25-44 (Young Adults),Developing
+818,819,60,Female,Philippines,Instagram,214,15,Life Hacks,5,16,Morning,3,7,Habit,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+819,820,60,Male,Philippines,Instagram,48,16,Jokes/Memes,1,37,Night,3,7,Procrastination,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+820,821,28,Female,India,Instagram,98,7,Trends,22,12,Afternoon,3,7,Boredom,Tablet,5,5,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+821,822,64,Female,India,YouTube,265,17,Jokes/Memes,15,24,Afternoon,3,7,Boredom,Smartphone,5,5,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+822,823,40,Male,Philippines,TikTok,263,19,Gaming,8,26,Night,3,7,Entertainment,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+823,824,33,Female,United States,TikTok,225,19,Gaming,1,20,Afternoon,3,7,Habit,Tablet,5,5,At school,Mobile Data,25-44 (Young Adults),Developed
+824,825,48,Other,United States,YouTube,181,17,Comedy,18,9,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,45-54 (Older Adults),Developed
+825,826,28,Male,Germany,Facebook,146,6,Vlogs,13,23,Night,3,7,Boredom,Smartphone,5,5,Commuting,Mobile Data,25-44 (Young Adults),Developed
+826,827,33,Other,India,Instagram,187,11,ASMR,29,39,Evening,3,7,Habit,Tablet,5,5,At home,Mobile Data,25-44 (Young Adults),Developing
+827,828,25,Other,India,TikTok,86,16,Pranks,1,29,Evening,3,7,Boredom,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+828,829,21,Male,Brazil,YouTube,197,8,Pranks,5,31,Night,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,18-24 (Youth),Developing
+829,830,57,Other,Mexico,Instagram,24,11,Vlogs,18,19,Afternoon,9,1,Habit,Smartphone,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+830,831,21,Female,Vietnam,Facebook,223,7,Jokes/Memes,16,20,Afternoon,8,2,Procrastination,Smartphone,10,0,At home,Mobile Data,18-24 (Youth),Developing
+831,832,42,Female,Philippines,Facebook,217,19,Vlogs,26,23,Night,6,4,Habit,Smartphone,8,2,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+832,833,20,Female,Indonesia,Instagram,178,10,Entertainment,10,43,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,18-24 (Youth),Developing
+833,834,49,Male,Germany,Facebook,289,9,Jokes/Memes,4,27,Evening,8,2,Boredom,Tablet,10,0,At school,Wi-Fi,45-54 (Older Adults),Developed
+834,835,20,Other,United States,TikTok,155,4,Trends,1,30,Evening,6,4,Entertainment,Tablet,8,2,Commuting,Wi-Fi,18-24 (Youth),Developed
+835,836,44,Male,Philippines,TikTok,272,15,Entertainment,23,21,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+836,837,46,Female,India,TikTok,13,13,Gaming,8,44,Morning,3,7,Boredom,Tablet,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+837,838,49,Other,Mexico,Facebook,99,2,Jokes/Memes,5,35,Evening,3,7,Habit,Computer,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+838,839,36,Other,India,TikTok,69,2,Life Hacks,2,49,Night,3,7,Habit,Tablet,5,5,At school,Mobile Data,35-44 (Mid Adults),Developing
+839,840,38,Male,Indonesia,YouTube,25,16,Pranks,24,7,Evening,8,2,Habit,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+840,841,22,Male,India,TikTok,236,9,Jokes/Memes,17,22,Evening,3,7,Boredom,Tablet,5,5,Commuting,Wi-Fi,18-24 (Youth),Developing
+841,842,35,Female,Brazil,TikTok,38,13,Jokes/Memes,7,10,Morning,3,7,Entertainment,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+842,843,45,Male,Philippines,Facebook,160,3,Trends,17,23,Afternoon,8,2,Entertainment,Tablet,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+843,844,59,Male,Brazil,TikTok,254,9,Life Hacks,28,15,Evening,3,7,Habit,Tablet,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+844,845,39,Male,Vietnam,Instagram,279,13,Pranks,6,30,Night,3,7,Habit,Tablet,5,5,At school,Wi-Fi,35-44 (Mid Adults),Developing
+845,846,38,Male,Japan,YouTube,88,2,Jokes/Memes,29,34,Evening,8,2,Entertainment,Smartphone,10,0,At work,Wi-Fi,35-44 (Mid Adults),Developed
+846,847,23,Female,United States,Facebook,298,8,Entertainment,22,13,Evening,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,18-24 (Youth),Developed
+847,848,18,Other,Mexico,YouTube,162,9,Jokes/Memes,15,4,Morning,8,2,Entertainment,Smartphone,10,0,At school,Wi-Fi,18-24 (Youth),Developing
+848,849,22,Female,Pakistan,Instagram,286,16,Trends,5,18,Night,3,7,Entertainment,Computer,5,5,At school,Mobile Data,18-24 (Youth),Developing
+849,850,58,Other,Pakistan,Facebook,288,2,Pranks,15,23,Evening,3,7,Habit,Computer,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+850,851,29,Other,Mexico,Facebook,66,6,Gaming,18,33,Afternoon,8,2,Procrastination,Tablet,10,0,Commuting,Mobile Data,25-44 (Young Adults),Developing
+851,852,43,Male,India,TikTok,195,8,Gaming,18,34,Morning,8,2,Boredom,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+852,853,63,Male,Vietnam,YouTube,102,5,Life Hacks,25,34,Afternoon,8,2,Habit,Smartphone,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+853,854,51,Male,United States,Instagram,285,9,Gaming,21,36,Afternoon,3,7,Habit,Smartphone,5,5,At school,Mobile Data,45-54 (Older Adults),Developed
+854,855,31,Male,India,Instagram,167,1,Entertainment,21,35,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+855,856,43,Female,India,Facebook,284,9,Trends,23,17,Morning,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+856,857,62,Other,United States,TikTok,190,10,Jokes/Memes,6,28,Night,8,2,Procrastination,Smartphone,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+857,858,44,Male,Mexico,Facebook,86,4,Vlogs,2,14,Morning,8,2,Entertainment,Smartphone,10,0,At school,Wi-Fi,35-44 (Mid Adults),Developing
+858,859,26,Male,India,Facebook,160,3,Gaming,27,34,Evening,3,7,Procrastination,Tablet,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+859,860,43,Other,Pakistan,Facebook,247,10,Vlogs,17,48,Evening,8,2,Habit,Smartphone,10,0,At home,Wi-Fi,35-44 (Mid Adults),Developing
+860,861,64,Male,India,Facebook,298,15,Life Hacks,21,11,Morning,3,7,Habit,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+861,862,39,Male,Germany,Instagram,240,11,Vlogs,4,13,Night,3,7,Procrastination,Tablet,5,5,At school,Mobile Data,35-44 (Mid Adults),Developed
+862,863,64,Male,Japan,Instagram,27,14,Gaming,12,33,Night,6,4,Entertainment,Smartphone,8,2,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+863,864,47,Female,Pakistan,Facebook,82,6,Entertainment,19,2,Afternoon,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+864,865,60,Male,United States,Facebook,198,12,Vlogs,2,34,Evening,8,2,Procrastination,Computer,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+865,866,34,Other,Brazil,TikTok,26,13,Vlogs,26,29,Evening,3,7,Entertainment,Smartphone,5,5,At home,Wi-Fi,25-44 (Young Adults),Developing
+866,867,43,Other,Germany,Facebook,28,17,Trends,2,37,Night,3,7,Boredom,Tablet,5,5,At school,Wi-Fi,35-44 (Mid Adults),Developed
+867,868,53,Other,Germany,Instagram,228,16,Entertainment,14,4,Evening,6,4,Entertainment,Computer,8,2,At work,Mobile Data,45-54 (Older Adults),Developed
+868,869,18,Female,India,YouTube,129,3,Trends,15,12,Night,6,4,Procrastination,Tablet,8,2,At home,Wi-Fi,18-24 (Youth),Developing
+869,870,25,Female,Japan,Instagram,110,2,ASMR,20,26,Night,8,2,Habit,Computer,10,0,At home,Mobile Data,25-44 (Young Adults),Developed
+870,871,52,Male,Philippines,TikTok,43,11,Vlogs,2,28,Night,3,7,Entertainment,Smartphone,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+871,872,32,Female,Japan,Instagram,93,9,Vlogs,4,3,Evening,3,7,Entertainment,Smartphone,5,5,At home,Mobile Data,25-44 (Young Adults),Developed
+872,873,64,Female,United States,YouTube,205,3,Jokes/Memes,19,20,Afternoon,9,1,Habit,Tablet,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+873,874,39,Female,United States,Facebook,211,18,Vlogs,9,10,Afternoon,6,4,Habit,Tablet,8,2,At school,Wi-Fi,35-44 (Mid Adults),Developed
+874,875,31,Male,Indonesia,YouTube,20,15,Gaming,7,18,Evening,6,4,Entertainment,Computer,8,2,At home,Wi-Fi,25-44 (Young Adults),Developing
+875,876,43,Female,Pakistan,Facebook,227,14,Pranks,13,27,Night,8,2,Habit,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+876,877,45,Male,Pakistan,Facebook,262,2,ASMR,27,31,Afternoon,8,2,Boredom,Tablet,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+877,878,40,Male,Pakistan,Instagram,231,17,ASMR,12,27,Evening,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,35-44 (Mid Adults),Developing
+878,879,31,Male,Indonesia,Instagram,89,8,Jokes/Memes,3,42,Afternoon,9,1,Boredom,Smartphone,10,0,At home,Wi-Fi,25-44 (Young Adults),Developing
+879,880,41,Male,Vietnam,Instagram,16,10,Jokes/Memes,13,1,Morning,8,2,Boredom,Smartphone,10,0,At home,Wi-Fi,35-44 (Mid Adults),Developing
+880,881,19,Other,India,TikTok,281,18,Life Hacks,15,6,Night,3,7,Entertainment,Smartphone,5,5,At work,Wi-Fi,18-24 (Youth),Developing
+881,882,62,Male,Japan,Instagram,236,19,Pranks,14,11,Evening,9,1,Procrastination,Smartphone,10,0,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+882,883,43,Male,India,TikTok,25,8,Trends,24,34,Afternoon,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,35-44 (Mid Adults),Developing
+883,884,31,Female,United States,Instagram,21,8,Gaming,9,39,Night,8,2,Boredom,Computer,10,0,Commuting,Wi-Fi,25-44 (Young Adults),Developed
+884,885,24,Female,Japan,Facebook,250,3,Trends,13,20,Evening,6,4,Procrastination,Smartphone,8,2,At school,Wi-Fi,18-24 (Youth),Developed
+885,886,20,Other,United States,TikTok,30,3,Life Hacks,23,21,Afternoon,3,7,Procrastination,Smartphone,5,5,At school,Mobile Data,18-24 (Youth),Developed
+886,887,64,Female,Germany,YouTube,187,12,ASMR,22,21,Morning,8,2,Boredom,Smartphone,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+887,888,40,Other,India,TikTok,237,17,Jokes/Memes,4,18,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developing
+888,889,63,Female,Brazil,TikTok,282,4,Trends,21,21,Evening,3,7,Entertainment,Smartphone,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+889,890,60,Other,Indonesia,YouTube,297,17,Comedy,8,19,Afternoon,6,4,Habit,Tablet,8,2,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+890,891,64,Female,Mexico,TikTok,143,14,Jokes/Memes,3,4,Afternoon,3,7,Boredom,Tablet,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+891,892,62,Female,India,Facebook,292,19,Pranks,2,13,Night,3,7,Habit,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+892,893,35,Female,United States,Instagram,162,9,Life Hacks,19,18,Evening,8,2,Entertainment,Tablet,10,0,At work,Mobile Data,35-44 (Mid Adults),Developed
+893,894,55,Female,Pakistan,YouTube,75,12,Pranks,28,29,Evening,8,2,Boredom,Tablet,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+894,895,52,Female,United States,Instagram,146,5,Pranks,23,25,Night,6,4,Boredom,Smartphone,8,2,At work,Mobile Data,45-54 (Older Adults),Developed
+895,896,32,Male,Philippines,Facebook,101,11,Life Hacks,8,13,Afternoon,6,4,Boredom,Computer,8,2,At home,Mobile Data,25-44 (Young Adults),Developing
+896,897,42,Male,United States,YouTube,268,3,Trends,17,27,Afternoon,3,7,Habit,Smartphone,5,5,At school,Mobile Data,35-44 (Mid Adults),Developed
+897,898,54,Male,United States,Instagram,112,15,Life Hacks,13,19,Night,8,2,Habit,Smartphone,10,0,At work,Wi-Fi,45-54 (Older Adults),Developed
+898,899,45,Male,Pakistan,Instagram,64,14,Jokes/Memes,7,49,Afternoon,8,2,Habit,Smartphone,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+899,900,27,Male,Mexico,Facebook,266,11,Gaming,9,1,Evening,6,4,Habit,Smartphone,8,2,Commuting,Wi-Fi,25-44 (Young Adults),Developing
+900,901,56,Other,Indonesia,Instagram,110,8,Comedy,12,38,Evening,8,2,Boredom,Computer,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+901,902,34,Male,India,Facebook,207,4,Jokes/Memes,29,19,Morning,8,2,Habit,Tablet,7,3,Commuting,Mobile Data,25-44 (Young Adults),Developing
+902,903,56,Other,Pakistan,TikTok,235,12,ASMR,14,1,Morning,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+903,904,39,Male,United States,Facebook,246,8,Jokes/Memes,14,40,Evening,6,4,Entertainment,Smartphone,8,2,At home,Mobile Data,35-44 (Mid Adults),Developed
+904,905,43,Male,Indonesia,TikTok,35,6,Life Hacks,15,17,Afternoon,6,4,Entertainment,Computer,8,2,At school,Mobile Data,35-44 (Mid Adults),Developing
+905,906,61,Female,United States,YouTube,130,15,Gaming,3,21,Morning,3,7,Habit,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+906,907,42,Female,Indonesia,Instagram,191,12,Trends,15,22,Night,3,7,Habit,Smartphone,5,5,At school,Mobile Data,35-44 (Mid Adults),Developing
+907,908,34,Female,Mexico,Facebook,208,16,ASMR,19,15,Afternoon,8,2,Habit,Smartphone,10,0,At home,Wi-Fi,25-44 (Young Adults),Developing
+908,909,30,Female,Brazil,Facebook,264,16,Vlogs,24,39,Morning,3,7,Habit,Tablet,5,5,At school,Mobile Data,25-44 (Young Adults),Developing
+909,910,37,Other,United States,Instagram,131,4,Jokes/Memes,20,48,Afternoon,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,35-44 (Mid Adults),Developed
+910,911,42,Female,Pakistan,Instagram,40,11,Life Hacks,14,39,Evening,9,1,Boredom,Tablet,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+911,912,21,Other,Indonesia,YouTube,294,13,Jokes/Memes,8,32,Night,8,2,Habit,Smartphone,10,0,At work,Mobile Data,18-24 (Youth),Developing
+912,913,27,Male,United States,YouTube,115,9,Life Hacks,5,49,Night,6,4,Entertainment,Smartphone,8,2,At school,Wi-Fi,25-44 (Young Adults),Developed
+913,914,20,Male,Vietnam,Facebook,233,4,Vlogs,19,4,Evening,6,4,Entertainment,Computer,8,2,At home,Mobile Data,18-24 (Youth),Developing
+914,915,58,Female,Japan,YouTube,282,12,Life Hacks,4,44,Morning,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+915,916,62,Female,Philippines,TikTok,241,9,Trends,14,45,Evening,8,2,Entertainment,Computer,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+916,917,35,Other,United States,YouTube,265,13,Vlogs,16,32,Night,8,2,Habit,Smartphone,10,0,At school,Mobile Data,35-44 (Mid Adults),Developed
+917,918,64,Female,India,YouTube,33,16,Trends,20,4,Evening,8,2,Entertainment,Smartphone,10,0,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+918,919,53,Other,Brazil,Facebook,118,6,Entertainment,24,1,Evening,3,7,Boredom,Tablet,5,5,At work,Mobile Data,45-54 (Older Adults),Developing
+919,920,64,Female,Brazil,TikTok,200,10,Life Hacks,6,33,Evening,8,2,Habit,Tablet,10,0,At school,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+920,921,39,Male,United States,YouTube,34,13,Life Hacks,23,7,Night,6,4,Habit,Smartphone,8,2,At home,Wi-Fi,35-44 (Mid Adults),Developed
+921,922,51,Male,Philippines,TikTok,196,7,Pranks,25,9,Afternoon,9,1,Boredom,Tablet,10,0,At home,Mobile Data,45-54 (Older Adults),Developing
+922,923,64,Female,India,TikTok,297,19,Jokes/Memes,6,1,Evening,9,1,Entertainment,Smartphone,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+923,924,25,Female,Mexico,TikTok,125,19,Jokes/Memes,3,16,Evening,9,1,Habit,Computer,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+924,925,57,Other,United States,Instagram,46,17,Pranks,15,18,Night,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+925,926,61,Male,Pakistan,Instagram,291,13,Entertainment,29,47,Evening,8,2,Habit,Smartphone,10,0,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+926,927,36,Female,Brazil,Instagram,146,13,Jokes/Memes,3,6,Afternoon,8,2,Entertainment,Computer,10,0,At home,Wi-Fi,35-44 (Mid Adults),Developing
+927,928,59,Other,United States,Instagram,236,2,Trends,11,2,Evening,6,4,Procrastination,Computer,8,2,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+928,929,58,Female,United States,Facebook,191,10,Life Hacks,3,9,Evening,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+929,930,54,Female,Mexico,YouTube,95,13,Life Hacks,28,4,Night,8,2,Entertainment,Smartphone,10,0,At work,Wi-Fi,45-54 (Older Adults),Developing
+930,931,23,Male,Mexico,Instagram,62,9,Jokes/Memes,10,45,Evening,8,2,Procrastination,Tablet,10,0,Commuting,Wi-Fi,18-24 (Youth),Developing
+931,932,43,Male,India,Facebook,244,1,Gaming,18,23,Afternoon,3,7,Habit,Smartphone,5,5,At work,Wi-Fi,35-44 (Mid Adults),Developing
+932,933,51,Male,India,YouTube,276,14,Jokes/Memes,1,43,Afternoon,9,1,Habit,Tablet,10,0,At work,Mobile Data,45-54 (Older Adults),Developing
+933,934,62,Male,India,Instagram,296,16,Jokes/Memes,16,45,Evening,8,2,Habit,Smartphone,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+934,935,23,Female,Vietnam,YouTube,109,15,Life Hacks,16,43,Afternoon,8,2,Habit,Smartphone,10,0,At school,Wi-Fi,18-24 (Youth),Developing
+935,936,54,Male,Vietnam,Instagram,96,1,Jokes/Memes,27,8,Night,9,1,Boredom,Tablet,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+936,937,50,Other,India,Facebook,24,17,Pranks,10,39,Evening,8,2,Procrastination,Smartphone,10,0,At work,Mobile Data,45-54 (Older Adults),Developing
+937,938,39,Female,India,TikTok,110,13,Gaming,1,25,Evening,3,7,Boredom,Smartphone,5,5,Commuting,Mobile Data,35-44 (Mid Adults),Developing
+938,939,38,Male,India,TikTok,174,15,Jokes/Memes,4,16,Afternoon,3,7,Habit,Computer,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+939,940,23,Male,Indonesia,YouTube,38,16,Jokes/Memes,3,35,Afternoon,8,2,Procrastination,Tablet,10,0,At school,Wi-Fi,18-24 (Youth),Developing
+940,941,23,Male,Mexico,Facebook,123,16,Trends,5,17,Afternoon,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,18-24 (Youth),Developing
+941,942,21,Male,Philippines,TikTok,116,2,Pranks,12,18,Afternoon,8,2,Boredom,Tablet,10,0,At work,Mobile Data,18-24 (Youth),Developing
+942,943,47,Female,Vietnam,Instagram,139,17,Vlogs,25,27,Evening,3,7,Habit,Smartphone,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+943,944,28,Female,Pakistan,TikTok,93,11,ASMR,12,15,Night,8,2,Entertainment,Smartphone,10,0,At school,Mobile Data,25-44 (Young Adults),Developing
+944,945,47,Other,Indonesia,YouTube,280,8,ASMR,13,17,Evening,8,2,Habit,Smartphone,10,0,At home,Mobile Data,45-54 (Older Adults),Developing
+945,946,48,Female,United States,YouTube,253,3,ASMR,24,43,Afternoon,6,4,Habit,Tablet,8,2,Commuting,Mobile Data,45-54 (Older Adults),Developed
+946,947,41,Male,United States,Facebook,223,12,ASMR,12,5,Night,8,2,Boredom,Smartphone,10,0,At work,Mobile Data,35-44 (Mid Adults),Developed
+947,948,26,Other,India,YouTube,175,16,Life Hacks,25,16,Afternoon,8,2,Boredom,Smartphone,10,0,At home,Mobile Data,25-44 (Young Adults),Developing
+948,949,20,Male,Philippines,TikTok,288,14,Gaming,16,15,Evening,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,18-24 (Youth),Developing
+949,950,48,Male,United States,TikTok,68,16,Life Hacks,13,42,Evening,3,7,Entertainment,Smartphone,5,5,At home,Wi-Fi,45-54 (Older Adults),Developed
+950,951,57,Male,Brazil,TikTok,99,17,Pranks,5,46,Night,8,2,Boredom,Tablet,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+951,952,54,Male,India,TikTok,203,11,Pranks,24,34,Night,9,1,Habit,Smartphone,10,0,At home,Wi-Fi,45-54 (Older Adults),Developing
+952,953,53,Female,Brazil,Facebook,132,17,Trends,4,48,Evening,3,7,Boredom,Tablet,5,5,At school,Mobile Data,45-54 (Older Adults),Developing
+953,954,41,Female,India,Instagram,145,19,Comedy,21,19,Night,3,7,Boredom,Smartphone,5,5,At work,Mobile Data,35-44 (Mid Adults),Developing
+954,955,48,Male,India,Instagram,148,1,Entertainment,15,8,Evening,3,7,Habit,Smartphone,5,5,At work,Wi-Fi,45-54 (Older Adults),Developing
+955,956,23,Male,United States,Facebook,238,12,Vlogs,12,47,Evening,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,18-24 (Youth),Developed
+956,957,19,Male,India,YouTube,283,15,Pranks,19,10,Evening,6,4,Entertainment,Computer,8,2,Commuting,Mobile Data,18-24 (Youth),Developing
+957,958,37,Male,Germany,Instagram,59,18,Jokes/Memes,21,5,Afternoon,8,2,Habit,Smartphone,10,0,At school,Mobile Data,35-44 (Mid Adults),Developed
+958,959,45,Other,Vietnam,YouTube,127,14,Vlogs,28,48,Morning,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,45-54 (Older Adults),Developing
+959,960,28,Male,Germany,Instagram,211,1,Life Hacks,19,26,Evening,8,2,Habit,Smartphone,10,0,At school,Wi-Fi,25-44 (Young Adults),Developed
+960,961,21,Female,Germany,YouTube,200,13,Life Hacks,21,22,Afternoon,3,7,Boredom,Tablet,5,5,At home,Mobile Data,18-24 (Youth),Developed
+961,962,32,Male,Japan,Facebook,190,15,Pranks,11,44,Afternoon,3,7,Procrastination,Tablet,5,5,At work,Mobile Data,25-44 (Young Adults),Developed
+962,963,23,Other,Vietnam,TikTok,87,7,Trends,21,23,Afternoon,8,2,Habit,Tablet,10,0,At school,Wi-Fi,18-24 (Youth),Developing
+963,964,47,Male,Indonesia,YouTube,84,15,Gaming,6,13,Evening,3,7,Boredom,Computer,5,5,At home,Mobile Data,45-54 (Older Adults),Developing
+964,965,55,Female,Philippines,TikTok,290,10,Entertainment,9,9,Afternoon,3,7,Boredom,Smartphone,5,5,At home,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+965,966,19,Male,India,YouTube,30,14,Gaming,1,49,Night,3,7,Entertainment,Smartphone,5,5,Commuting,Mobile Data,18-24 (Youth),Developing
+966,967,32,Female,India,YouTube,180,6,ASMR,12,20,Night,3,7,Habit,Tablet,5,5,Commuting,Mobile Data,25-44 (Young Adults),Developing
+967,968,28,Male,Indonesia,YouTube,24,14,Life Hacks,26,28,Evening,6,4,Habit,Smartphone,8,2,At school,Mobile Data,25-44 (Young Adults),Developing
+968,969,25,Female,United States,YouTube,220,12,Gaming,14,44,Morning,8,2,Boredom,Smartphone,8,2,At school,Mobile Data,25-44 (Young Adults),Developed
+969,970,43,Female,United States,YouTube,57,11,Entertainment,6,37,Night,8,2,Habit,Computer,10,0,At home,Mobile Data,35-44 (Mid Adults),Developed
+970,971,62,Female,Germany,TikTok,95,19,Gaming,1,24,Night,9,1,Entertainment,Smartphone,10,0,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developed
+971,972,61,Other,Indonesia,YouTube,158,2,Entertainment,22,44,Evening,3,7,Boredom,Computer,5,5,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+972,973,22,Female,Vietnam,TikTok,197,1,Jokes/Memes,2,33,Night,8,2,Entertainment,Smartphone,10,0,At home,Mobile Data,18-24 (Youth),Developing
+973,974,23,Female,Germany,Facebook,160,8,Jokes/Memes,24,20,Night,6,4,Habit,Smartphone,8,2,At school,Mobile Data,18-24 (Youth),Developed
+974,975,43,Female,Brazil,Instagram,150,14,Vlogs,11,48,Night,6,4,Boredom,Smartphone,8,2,At school,Wi-Fi,35-44 (Mid Adults),Developing
+975,976,21,Male,Japan,YouTube,78,9,ASMR,3,30,Evening,8,2,Boredom,Smartphone,10,0,At school,Mobile Data,18-24 (Youth),Developed
+976,977,36,Male,Pakistan,Instagram,269,2,Entertainment,10,44,Evening,3,7,Habit,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developing
+977,978,37,Male,United States,TikTok,18,5,Pranks,6,9,Evening,3,7,Procrastination,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developed
+978,979,50,Female,Japan,Facebook,130,8,Jokes/Memes,6,45,Morning,8,2,Habit,Tablet,10,0,Commuting,Wi-Fi,45-54 (Older Adults),Developed
+979,980,37,Female,United States,Facebook,110,16,Gaming,20,49,Evening,3,7,Habit,Smartphone,5,5,At home,Mobile Data,35-44 (Mid Adults),Developed
+980,981,29,Male,Philippines,Facebook,158,16,Gaming,21,17,Evening,9,1,Boredom,Tablet,10,0,At school,Mobile Data,25-44 (Young Adults),Developing
+981,982,64,Female,Pakistan,Instagram,155,13,Life Hacks,2,36,Evening,8,2,Boredom,Smartphone,10,0,At work,Mobile Data,55-64 (Seniors/Pre-retirement),Developing
+982,983,18,Female,India,TikTok,252,15,Life Hacks,26,14,Afternoon,6,4,Boredom,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developing
+983,984,43,Female,India,YouTube,250,1,ASMR,26,19,Evening,6,4,Procrastination,Tablet,8,2,At school,Wi-Fi,35-44 (Mid Adults),Developing
+984,985,31,Female,Philippines,YouTube,52,3,Gaming,24,7,Night,6,4,Habit,Tablet,8,2,At home,Wi-Fi,25-44 (Young Adults),Developing
+985,986,55,Female,Germany,TikTok,104,6,Trends,10,3,Night,3,7,Boredom,Tablet,5,5,Commuting,Mobile Data,55-64 (Seniors/Pre-retirement),Developed
+986,987,54,Other,India,Instagram,235,14,Jokes/Memes,23,33,Night,8,2,Boredom,Smartphone,10,0,At work,Wi-Fi,45-54 (Older Adults),Developing
+987,988,28,Female,Indonesia,YouTube,15,4,Life Hacks,26,44,Evening,6,4,Entertainment,Tablet,8,2,Commuting,Mobile Data,25-44 (Young Adults),Developing
+988,989,53,Male,Philippines,TikTok,223,18,Vlogs,6,32,Morning,6,4,Habit,Smartphone,8,2,At school,Mobile Data,45-54 (Older Adults),Developing
+989,990,30,Male,Indonesia,YouTube,215,15,Trends,23,47,Evening,6,4,Boredom,Tablet,8,2,At work,Wi-Fi,25-44 (Young Adults),Developing
+990,991,60,Female,India,Facebook,76,9,Jokes/Memes,28,11,Afternoon,3,7,Habit,Smartphone,5,5,At home,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+991,992,20,Other,Germany,YouTube,109,18,Vlogs,17,42,Afternoon,8,2,Boredom,Smartphone,10,0,Commuting,Mobile Data,18-24 (Youth),Developed
+992,993,50,Male,Philippines,Instagram,21,3,Life Hacks,14,2,Night,8,2,Procrastination,Tablet,10,0,Commuting,Mobile Data,45-54 (Older Adults),Developing
+993,994,23,Female,India,TikTok,246,10,ASMR,5,26,Night,8,2,Habit,Computer,10,0,Commuting,Mobile Data,18-24 (Youth),Developing
+994,995,27,Male,United States,Instagram,267,17,Jokes/Memes,23,4,Night,8,2,Procrastination,Computer,10,0,Commuting,Mobile Data,25-44 (Young Adults),Developed
+995,996,22,Male,India,TikTok,144,7,Gaming,17,17,Afternoon,9,1,Procrastination,Smartphone,10,0,At work,Mobile Data,18-24 (Youth),Developing
+996,997,40,Female,Pakistan,Facebook,231,15,Life Hacks,2,17,Night,8,2,Boredom,Smartphone,10,0,At home,Mobile Data,35-44 (Mid Adults),Developing
+997,998,27,Male,India,TikTok,165,1,Pranks,9,28,Night,9,1,Procrastination,Smartphone,10,0,Commuting,Mobile Data,25-44 (Young Adults),Developing
+998,999,61,Male,Pakistan,YouTube,151,11,Life Hacks,12,30,Night,3,7,Procrastination,Smartphone,5,5,At work,Wi-Fi,55-64 (Seniors/Pre-retirement),Developing
+999,1000,19,Male,India,YouTube,167,17,Pranks,19,40,Evening,6,4,Procrastination,Smartphone,8,2,At home,Mobile Data,18-24 (Youth),Developing
