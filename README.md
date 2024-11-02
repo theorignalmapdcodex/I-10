@@ -21,16 +21,9 @@ To run the notebook, the following Python packages need to be installed:
 
 You can install all requirements using:
 
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn scipy plotly ipywidgets notebook statsmodels tabulate
+`pip install numpy pandas matplotlib seaborn scikit-learn scipy plotly ipywidgets notebook statsmodels tabulate`
 
-## Usage
+## Installation & Usage
 1. Clone the repository or download this notebook.
 2. Ensure that all required packages are installed.
 3. Open the notebook in Jupyter and run each cell sequentially to reproduce the analysis and visualizations.
-
-## Installation
-You can install the required packages using the following command:
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn scipy
